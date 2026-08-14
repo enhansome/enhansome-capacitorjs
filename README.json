@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:41:13Z",
+            "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16303
+            "stars": 16306
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:41:13Z",
+            "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16303
+            "stars": 16306
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-13T14:53:18Z",
             "owner": "capacitor-community",
             "repo": "electron",
-            "stars": 399
+            "stars": 398
           }
         }
       ],
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T14:43:52Z",
+            "last_commit": "2026-08-14T14:38:43Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 824
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T06:02:52Z",
+            "last_commit": "2026-08-14T13:15:32Z",
             "owner": "capacitor-community",
             "repo": "admob",
             "stars": 294
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T07:06:44Z",
+            "last_commit": "2026-08-14T07:32:43Z",
             "owner": "capacitor-community",
             "repo": "stripe",
             "stars": 247
@@ -305,20 +305,6 @@
         },
         {
           "node_type": "item",
-          "title": "@aparajita/capacitor-secure-storage",
-          "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-12T18:22:42Z",
-            "owner": "aparajita",
-            "repo": "capacitor-secure-storage",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
           "title": "@capacitor-community/apple-sign-in",
           "description": "Sign in with Apple Support.",
           "children": [],
@@ -329,6 +315,20 @@
             "owner": "capacitor-community",
             "repo": "apple-sign-in",
             "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aparajita/capacitor-secure-storage",
+          "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-12T18:22:42Z",
+            "owner": "aparajita",
+            "repo": "capacitor-secure-storage",
+            "stars": 167
           }
         },
         {
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T11:44:38Z",
+            "last_commit": "2026-08-14T14:32:29Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 130
@@ -493,24 +493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T06:17:55Z",
+            "last_commit": "2026-08-14T07:32:43Z",
             "owner": "capacitor-community",
             "repo": "facebook-login",
             "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/app-icon",
-          "description": "Capacitor plugin for managing an iOS app's icon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-03T13:50:20Z",
-            "owner": "capacitor-community",
-            "repo": "app-icon",
-            "stars": 104
           }
         },
         {
@@ -543,6 +529,20 @@
         },
         {
           "node_type": "item",
+          "title": "@capacitor-community/app-icon",
+          "description": "Capacitor plugin for managing an iOS app's icon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T13:50:20Z",
+            "owner": "capacitor-community",
+            "repo": "app-icon",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
           "title": "@capacitor-community/date-picker",
           "description": "Native DateTime Picker Plugin for Capacitor Apps.",
           "children": [],
@@ -563,24 +563,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T21:16:10Z",
+            "last_commit": "2026-08-13T21:14:49Z",
             "owner": "ebarooni",
             "repo": "capacitor-calendar",
             "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/native-audio",
-          "description": "Capacitor plugin for native audio engine (fork).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-03T17:48:30Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-native-audio",
-            "stars": 76
           }
         },
         {
@@ -594,6 +580,20 @@
             "last_commit": "2024-06-16T20:29:21Z",
             "owner": "capacitor-community",
             "repo": "firebase-crashlytics",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@capgo/native-audio",
+          "description": "Capacitor plugin for native audio engine (fork).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T17:48:30Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-audio",
             "stars": 75
           }
         },
@@ -661,10 +661,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T12:50:53Z",
+            "last_commit": "2026-08-14T11:52:42Z",
             "owner": "Cap-go",
             "repo": "capacitor-camera-preview",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -1116,7 +1116,7 @@
             "last_commit": "2026-03-24T12:16:32Z",
             "owner": "ionic-team",
             "repo": "create-capacitor-plugin",
-            "stars": 122
+            "stars": 121
           }
         },
         {
@@ -1172,7 +1172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:47:44.335Z",
+    "last_updated": "2026-08-14T14:42:32.422Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_sha": "fd4751ccb558c131a56452998330b24089620426",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
