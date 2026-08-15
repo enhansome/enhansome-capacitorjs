@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16306
+            "stars": 16314
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16306
+            "stars": 16314
           }
         },
         {
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:38:43Z",
+            "last_commit": "2026-08-15T13:12:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 824
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:15:32Z",
+            "last_commit": "2026-08-15T08:24:21Z",
             "owner": "capacitor-community",
             "repo": "admob",
             "stars": 294
@@ -185,10 +185,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:32:43Z",
+            "last_commit": "2026-08-15T08:51:42Z",
             "owner": "capacitor-community",
             "repo": "stripe",
-            "stars": 247
+            "stars": 248
           }
         },
         {
@@ -216,21 +216,7 @@
             "last_commit": "2026-08-13T12:37:47Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
-            "stars": 230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@aparajita/capacitor-biometric-auth",
-          "description": "Easy access to native biometric auth APIs on iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-12T18:12:06Z",
-            "owner": "aparajita",
-            "repo": "capacitor-biometric-auth",
-            "stars": 227
+            "stars": 231
           }
         },
         {
@@ -244,6 +230,20 @@
             "last_commit": "2026-04-17T17:04:05Z",
             "owner": "capacitor-community",
             "repo": "camera-preview",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aparajita/capacitor-biometric-auth",
+          "description": "Easy access to native biometric auth APIs on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-12T18:12:06Z",
+            "owner": "aparajita",
+            "repo": "capacitor-biometric-auth",
             "stars": 227
           }
         },
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:32:29Z",
+            "last_commit": "2026-08-14T21:28:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 130
@@ -493,7 +493,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T07:32:43Z",
+            "last_commit": "2026-08-15T08:24:21Z",
             "owner": "capacitor-community",
             "repo": "facebook-login",
             "stars": 113
@@ -563,7 +563,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T21:14:49Z",
+            "last_commit": "2026-08-14T20:06:58Z",
             "owner": "ebarooni",
             "repo": "capacitor-calendar",
             "stars": 87
@@ -646,8 +646,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-15T07:06:26Z",
+            "language": "Swift",
+            "last_commit": "2026-08-15T10:41:34Z",
             "owner": "OrdinarySF",
             "repo": "capacitor-websocket-client",
             "stars": 52
@@ -1172,7 +1172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:42:32.422Z",
+    "last_updated": "2026-08-15T14:05:27.232Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_sha": "fd4751ccb558c131a56452998330b24089620426",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
