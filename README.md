@@ -31,7 +31,7 @@ A curated list of awesome things related to Capacitor.
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://capacitorjs.com/blog)
 * [Enterprise](https://capacitorjs.com/enterprise)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,314 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,320 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Guides
@@ -53,8 +53,8 @@ A curated list of awesome things related to Capacitor.
 
 ## Platforms
 
-* [@capacitor/android](https://github.com/ionic-team/capacitor) ⭐ 16,314 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
-* [@capacitor/ios](https://github.com/ionic-team/capacitor) ⭐ 16,314 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
+* [@capacitor/android](https://github.com/ionic-team/capacitor) ⭐ 16,320 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
+* [@capacitor/ios](https://github.com/ionic-team/capacitor) ⭐ 16,320 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-14
 * [@capacitor-community/electron](https://github.com/capacitor-community/electron) ⭐ 398 | 🐛 66 | 🌐 TypeScript | 📅 2026-07-13
 
 ## Plugins
@@ -90,10 +90,10 @@ A curated list of awesome things related to Capacitor.
 
 ### Community Plugins
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 824 | 🐛 2 | 🌐 Java | 📅 2026-08-15 - Live update for capacitor app.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 825 | 🐛 2 | 🌐 Java | 📅 2026-08-16 - Live update for capacitor app.
 * [@capacitor-community/sqlite](https://github.com/capacitor-community/sqlite) ⭐ 658 | 🐛 37 | 🌐 Swift | 📅 2026-08-06 - Community plugin for native & electron SQLite databases.
 * [@capacitor-community/barcode-scanner](https://github.com/capacitor-community/barcode-scanner) ⚠️ Archived - A fast and efficient (QR) barcode scanner for Capacitor.
-* [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 359 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-13 - Capacitor plugin for Bluetooth Low Energy.
+* [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 359 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-13 - Capacitor plugin for Bluetooth Low Energy.
 * [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) ⭐ 334 | 🐛 135 | 🌐 TypeScript | 📅 2025-01-11 - Capacitor plugin for Google Auth.
 * [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 294 | 🐛 39 | 🌐 Java | 📅 2026-08-15 - Community plugin for using Google AdMob.
 * [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) ⭐ 273 | 🐛 29 | 🌐 TypeScript | 📅 2026-01-22 - Enable Firebase Cloud Messaging for Capacitor apps.
@@ -101,7 +101,7 @@ A curated list of awesome things related to Capacitor.
 * [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) ⭐ 263 | 🐛 116 | 🌐 Java | 📅 2023-07-11 - Capacitor Firebase Authentication Plugin.
 * [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 248 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-15 - Stripe Mobile SDK wrapper for Capacitor.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 247 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 231 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-13 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 231 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-16 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 * [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 228 | 🐛 91 | 🌐 Java | 📅 2026-04-17 - Capacitor plugin that allows camera interaction from HTML code.
 * [@aparajita/capacitor-biometric-auth](https://github.com/aparajita/capacitor-biometric-auth) ⭐ 227 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-12 - Easy access to native biometric auth APIs on iOS and Android.
 * [@capacitor-community/http](https://github.com/capacitor-community/http) ⚠️ Archived - Community plugin for native HTTP.
@@ -117,8 +117,8 @@ A curated list of awesome things related to Capacitor.
 * [@capacitor-community/vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) ⭐ 135 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-04 - A Vue CLI 3/4 Plugin for Capacitor.
 * [@capacitor-community/media](https://github.com/capacitor-community/media) ⭐ 134 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-27 - Capacitor plugin to activate extra media features.
 * [send-intent](https://github.com/carsten-klaffke/send-intent) ⭐ 133 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-01 - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
+* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 131 | 🐛 1 | 🌐 Java | 📅 2026-08-16 - Browser In app browser with urlChangeEvent.
 * [@capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) ⭐ 130 | 🐛 19 | 🌐 Java | 📅 2026-06-15 - Capacitor plugin for synthesizing speech from text.
-* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 130 | 🐛 3 | 🌐 Java | 📅 2026-08-14 - Browser In app browser with urlChangeEvent.
 * [capacitor-video-player](https://github.com/jepiqueau/capacitor-video-player) ⭐ 130 | 🐛 31 | 🌐 Java | 📅 2025-11-18 - Capacitor Video Player Plugin.
 * [@capacitor-community/speech-recognition](https://github.com/capacitor-community/speech-recognition) ⭐ 129 | 🐛 26 | 🌐 Java | 📅 2026-05-29 - Capacitor community plugin for speech recognition.
 * [@capacitor-community/facebook-login](https://github.com/capacitor-community/facebook-login) ⭐ 113 | 🐛 34 | 🌐 Java | 📅 2026-08-15 - Facebook Login support.
@@ -233,4 +233,4 @@ A curated list of awesome things related to Capacitor.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

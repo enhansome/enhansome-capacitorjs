@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16314
+            "stars": 16320
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T14:32:07Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16314
+            "stars": 16320
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T13:12:03Z",
+            "last_commit": "2026-08-16T13:43:02Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 824
+            "stars": 825
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:37:47Z",
+            "last_commit": "2026-08-16T00:10:46Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 231
@@ -431,6 +431,20 @@
         },
         {
           "node_type": "item",
+          "title": "@capgo/inappbrowser",
+          "description": "Browser In app browser with urlChangeEvent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-16T13:12:07Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-inappbrowser",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
           "title": "@capacitor-community/text-to-speech",
           "description": "Capacitor plugin for synthesizing speech from text.",
           "children": [],
@@ -440,20 +454,6 @@
             "last_commit": "2026-06-15T12:48:10Z",
             "owner": "capacitor-community",
             "repo": "text-to-speech",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/inappbrowser",
-          "description": "Browser In app browser with urlChangeEvent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-14T21:28:32Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-inappbrowser",
             "stars": 130
           }
         },
@@ -1172,7 +1172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:05:27.232Z",
+    "last_updated": "2026-08-16T14:09:14.786Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_sha": "fd4751ccb558c131a56452998330b24089620426",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
