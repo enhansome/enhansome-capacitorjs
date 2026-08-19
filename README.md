@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,346 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-18
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,347 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-18
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -550,7 +550,7 @@ Production apps whose use of Capacitor is publicly documented.
 
 ## Related Lists
 
-* [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,463 | 🐛 12 | 📅 2021-04-18
+* [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,462 | 🐛 12 | 📅 2021-04-18
 * [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) ⭐ 864 | 🐛 0 | 📅 2026-08-18
 
 ## Freelancers
