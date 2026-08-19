@@ -1,935 +1,1002 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/sqlite",
+              "description": "Community plugin for native & electron SQLite databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216239164,
+                "language": "Swift",
+                "last_commit": "2026-08-06T12:38:50Z",
+                "owner": "capacitor-community",
+                "repo": "sqlite",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/electron",
+              "description": "Capacitor plugin to run Capacitor apps on Electron.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267686772,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T14:53:18Z",
+                "owner": "capacitor-community",
+                "repo": "electron",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/bluetooth-le",
+              "description": "Capacitor plugin for Bluetooth Low Energy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318455713,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T12:18:41Z",
+                "owner": "capacitor-community",
+                "repo": "bluetooth-le",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/admob",
+              "description": "Community plugin for using Google AdMob.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274447027,
+                "language": "Java",
+                "last_commit": "2026-08-19T03:59:38Z",
+                "owner": "capacitor-community",
+                "repo": "admob",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/stripe",
+              "description": "Stripe Mobile SDK wrapper for Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219177937,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:05:18Z",
+                "owner": "capacitor-community",
+                "repo": "stripe",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/background-geolocation",
+              "description": "Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311601369,
+                "language": "Java",
+                "last_commit": "2025-08-28T11:45:02Z",
+                "owner": "capacitor-community",
+                "repo": "background-geolocation",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/camera-preview",
+              "description": "Capacitor plugin that allows camera interaction from HTML code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195606666,
+                "language": "Java",
+                "last_commit": "2026-04-17T17:04:05Z",
+                "owner": "capacitor-community",
+                "repo": "camera-preview",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/safe-area",
+              "description": "A plugin to expose the safe area insets from the native iOS/Android device to your web project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336072603,
+                "language": "Java",
+                "last_commit": "2026-05-13T08:44:19Z",
+                "owner": "capacitor-community",
+                "repo": "safe-area",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/keep-awake",
+              "description": "Capacitor plugin to prevent devices from dimming or locking the screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225649811,
+                "language": "Swift",
+                "last_commit": "2026-05-27T04:24:57Z",
+                "owner": "capacitor-community",
+                "repo": "keep-awake",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/apple-sign-in",
+              "description": "Sign in with Apple Support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272725467,
+                "language": "Swift",
+                "last_commit": "2026-01-28T16:43:36Z",
+                "owner": "capacitor-community",
+                "repo": "apple-sign-in",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/google-maps",
+              "description": "Capacitor Plugin using native Google Maps SDK for Android and iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269439752,
+                "language": "Java",
+                "last_commit": "2026-07-23T13:43:28Z",
+                "owner": "capacitor-community",
+                "repo": "google-maps",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/native-audio",
+              "description": "Capacitor community plugin for playing sounds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267677900,
+                "language": "Java",
+                "last_commit": "2026-04-09T01:06:48Z",
+                "owner": "capacitor-community",
+                "repo": "native-audio",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/contacts",
+              "description": "Contacts Plugin for Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272578252,
+                "language": "Java",
+                "last_commit": "2026-07-21T07:52:29Z",
+                "owner": "capacitor-community",
+                "repo": "contacts",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/vue-cli-plugin-capacitor",
+              "description": "A Vue CLI 3/4 Plugin for Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151606760,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T03:52:59Z",
+                "owner": "capacitor-community",
+                "repo": "vue-cli-plugin-capacitor",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/media",
+              "description": "Capacitor plugin to activate extra media features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178725699,
+                "language": "TypeScript",
+                "last_commit": "2026-03-27T00:10:05Z",
+                "owner": "capacitor-community",
+                "repo": "media",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/text-to-speech",
+              "description": "Capacitor plugin for synthesizing speech from text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267676061,
+                "language": "Java",
+                "last_commit": "2026-06-15T12:48:10Z",
+                "owner": "capacitor-community",
+                "repo": "text-to-speech",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/speech-recognition",
+              "description": "Capacitor community plugin for speech recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274786636,
+                "language": "Java",
+                "last_commit": "2026-05-29T05:14:35Z",
+                "owner": "capacitor-community",
+                "repo": "speech-recognition",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/facebook-login",
+              "description": "Facebook Login support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274446961,
+                "language": "Java",
+                "last_commit": "2026-08-15T08:24:21Z",
+                "owner": "capacitor-community",
+                "repo": "facebook-login",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/privacy-screen",
+              "description": "Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330129326,
+                "language": "Swift",
+                "last_commit": "2026-04-28T11:27:21Z",
+                "owner": "capacitor-community",
+                "repo": "privacy-screen",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/app-icon",
+              "description": "Capacitor plugin for managing an iOS app's icon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335079726,
+                "language": "Swift",
+                "last_commit": "2026-08-03T13:50:20Z",
+                "owner": "capacitor-community",
+                "repo": "app-icon",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/date-picker",
+              "description": "Native DateTime Picker Plugin for Capacitor Apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195756577,
+                "language": "Swift",
+                "last_commit": "2025-09-12T12:22:54Z",
+                "owner": "capacitor-community",
+                "repo": "date-picker",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/intercom",
+              "description": "Enable Intercom for Capacitor apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177884307,
+                "language": "Java",
+                "last_commit": "2026-03-24T15:25:32Z",
+                "owner": "capacitor-community",
+                "repo": "intercom",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/photoviewer",
+              "description": "PhotoViewer table images with fullscreen and sharing capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343784524,
+                "language": "TypeScript",
+                "last_commit": "2026-06-03T16:21:16Z",
+                "owner": "capacitor-community",
+                "repo": "photoviewer",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/native-market",
+              "description": "Capacitor community plugin for native market for Play Store/App Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268003530,
+                "language": "Java",
+                "last_commit": "2026-03-25T23:59:45Z",
+                "owner": "capacitor-community",
+                "repo": "native-market",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/screen-brightness",
+              "description": "Capacitor community plugin for controlling screen brightness on iOS and Android devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333135623,
+                "language": "Swift",
+                "last_commit": "2026-01-02T14:09:17Z",
+                "owner": "capacitor-community",
+                "repo": "screen-brightness",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Capacitor Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@capgo/capacitor-updater",
+              "description": "Live update for capacitor app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420741081,
+                "language": "Java",
+                "last_commit": "2026-08-18T16:25:57Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-updater",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/inappbrowser",
+              "description": "Browser In app browser with urlChangeEvent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515302020,
+                "language": "Java",
+                "last_commit": "2026-08-18T12:21:28Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-inappbrowser",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/native-audio",
+              "description": "Capacitor plugin for native audio engine (fork).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560317422,
+                "language": "Java",
+                "last_commit": "2026-08-17T14:14:29Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-native-audio",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/camera-preview",
+              "description": "Capacitor plugin that allows camera interaction from HTML code (fork).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573703497,
+                "language": "Java",
+                "last_commit": "2026-08-17T03:54:19Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-camera-preview",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/nativegeocoder",
+              "description": "Native forward and reverse geocoding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508654246,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T23:30:24Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-nativegeocoder",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/capacitor-screen-recorder",
+              "description": "Record screen and save to pelicule.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427230607,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T08:45:44Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-screen-recorder",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/capacitor-flash",
+              "description": "Switch the Flashlight / Torch of your device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428109916,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T23:32:22Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-flash",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/capacitor-crisp",
+              "description": "Crisp chat SDK for your app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429967671,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T08:14:12Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-crisp",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/native-market",
+              "description": "Capacitor community plugin for native market for Play Store/App Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517331734,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T19:15:35Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-native-market",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capgo/capacitor-mute",
+              "description": "Detect silent mode and mute audio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426803627,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T14:13:16Z",
+                "owner": "Cap-go",
+                "repo": "capacitor-mute",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Capgo"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@aparajita/capacitor-secure-storage",
+              "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311559361,
+                "language": "JavaScript",
+                "last_commit": "2026-02-12T18:22:42Z",
+                "owner": "aparajita",
+                "repo": "capacitor-secure-storage",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@aparajita/capacitor-dark-mode",
+              "description": "Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517176969,
+                "language": "JavaScript",
+                "last_commit": "2026-02-13T18:29:55Z",
+                "owner": "aparajita",
+                "repo": "capacitor-dark-mode",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@aparajita/capacitor-logger",
+              "description": "Better logging for the web and native Ionic/Capacitor apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295511379,
+                "language": "CSS",
+                "last_commit": "2024-04-22T17:11:04Z",
+                "owner": "aparajita",
+                "repo": "capacitor-logger",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@aparajita/capacitor-ios-silent-notifications",
+              "description": "Silent (AKA remote) notification support for Capacitor apps on iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768930570,
+                "language": "JavaScript",
+                "last_commit": "2025-10-31T15:26:32Z",
+                "owner": "aparajita",
+                "repo": "capacitor-ios-silent-notifications",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Aparajita"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@transistorsoft/capacitor-background-geolocation",
+              "description": "Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190391218,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T14:05:19Z",
+                "owner": "transistorsoft",
+                "repo": "capacitor-background-geolocation",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@transistorsoft/capacitor-background-fetch",
+              "description": "Periodic callbacks in the background for both iOS and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372845415,
+                "language": "TypeScript",
+                "last_commit": "2026-04-21T13:50:28Z",
+                "owner": "transistorsoft",
+                "repo": "capacitor-background-fetch",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Transistor Software"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "capacitor-lottie-splash-screen",
+              "description": "Capacitor plugin to use Lottie animations as splash screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994626776,
+                "language": "Swift",
+                "last_commit": "2026-06-29T06:43:48Z",
+                "owner": "ludufre",
+                "repo": "capacitor-lottie-splash-screen",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-live-activities",
+              "description": "Capacitor plugin to use Live Activities on iOS 16.2+.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998278874,
+                "language": "TypeScript",
+                "last_commit": "2026-05-30T16:08:52Z",
+                "owner": "ludufre",
+                "repo": "capacitor-live-activities",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-screenshot",
+              "description": "Capacitor plugin to take screenshots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425405636,
+                "language": "TypeScript",
+                "last_commit": "2026-01-26T15:11:08Z",
+                "owner": "ludufre",
+                "repo": "capacitor-screenshot",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-app-attest",
+              "description": "Apple Attest with Ionic Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991755822,
+                "language": "TypeScript",
+                "last_commit": "2025-06-05T03:17:02Z",
+                "owner": "ludufre",
+                "repo": "capacitor-app-attest",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Luan Freitas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@codetrix-studio/capacitor-google-auth",
+              "description": "Capacitor plugin for Google Auth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187340603,
+                "language": "TypeScript",
+                "last_commit": "2025-01-11T00:12:53Z",
+                "owner": "CodetrixStudio",
+                "repo": "CapacitorGoogleAuth",
+                "stars": 334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@revenuecat/purchases-capacitor",
+              "description": "Capacitor in-app purchases and subscriptions made easy with RevenueCat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427781657,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:50:08Z",
+                "owner": "RevenueCat",
+                "repo": "purchases-capacitor",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-plugin-safe-area",
+              "description": "Get SafeArea info on Android and IOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395208488,
+                "language": "Java",
+                "last_commit": "2026-07-09T09:01:12Z",
+                "owner": "AlwaysLoveme",
+                "repo": "capacitor-plugin-safe-area",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "send-intent",
+              "description": "This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244196700,
+                "language": "TypeScript",
+                "last_commit": "2026-07-01T07:50:59Z",
+                "owner": "mindlib-capacitor",
+                "repo": "send-intent",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-video-player",
+              "description": "Capacitor Video Player Plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161391853,
+                "language": "Java",
+                "last_commit": "2025-11-18T02:13:25Z",
+                "owner": "harmonwood",
+                "repo": "capacitor-video-player",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@ebarooni/capacitor-calendar",
+              "description": "Capacitor plugin for interacting with calendar and reminders.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 752043661,
+                "language": "Swift",
+                "last_commit": "2026-08-18T21:14:18Z",
+                "owner": "ebarooni",
+                "repo": "capacitor-calendar",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@teamhive/capacitor-video-recorder",
+              "description": "Video recorder plugin for Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133152028,
+                "language": "Swift",
+                "last_commit": "2023-03-06T07:35:13Z",
+                "owner": "TeamMaestro",
+                "repo": "capacitor-video-recorder",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@wahr/capacitor-websocket-client",
+              "description": "Capacitor WebSocket Client Plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664276046,
+                "language": "Swift",
+                "last_commit": "2026-08-15T10:41:34Z",
+                "owner": "OrdinarySF",
+                "repo": "capacitor-websocket-client",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@smartcompanion/native-audio-player",
+              "description": "Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949057897,
+                "language": "Java",
+                "last_commit": "2026-08-07T22:14:39Z",
+                "owner": "smartcompanion-app",
+                "repo": "native-audio-player",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@cartona/capacitor-google-play-availability",
+              "description": "Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 564837253,
+                "language": "Java",
+                "last_commit": "2024-02-15T14:05:46Z",
+                "owner": "cartona",
+                "repo": "capacitor-google-play-availability",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-bing-translator",
+              "description": "A simple and free API for using Bing Translator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708262637,
+                "language": "JavaScript",
+                "last_commit": "2023-10-23T03:34:33Z",
+                "owner": "sabereen",
+                "repo": "capacitor-bing-translator",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Creators"
+        }
+      ],
       "title": "Plugins"
     },
     {
-      "description": "Maintained by the Capawesome team. See the full SDK list for details.",
-      "items": [],
-      "title": "Capawesome Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/sqlite",
-          "description": "Community plugin for native & electron SQLite databases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-06T12:38:50Z",
-            "owner": "capacitor-community",
-            "repo": "sqlite",
-            "stars": 658
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/electron",
-          "description": "Capacitor plugin to run Capacitor apps on Electron.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-13T14:53:18Z",
-            "owner": "capacitor-community",
-            "repo": "electron",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/bluetooth-le",
-          "description": "Capacitor plugin for Bluetooth Low Energy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T12:18:41Z",
-            "owner": "capacitor-community",
-            "repo": "bluetooth-le",
-            "stars": 359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/admob",
-          "description": "Community plugin for using Google AdMob.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T13:59:41Z",
-            "owner": "capacitor-community",
-            "repo": "admob",
-            "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/stripe",
-          "description": "Stripe Mobile SDK wrapper for Capacitor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T08:51:42Z",
-            "owner": "capacitor-community",
-            "repo": "stripe",
-            "stars": 248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/background-geolocation",
-          "description": "Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-08-28T11:45:02Z",
-            "owner": "capacitor-community",
-            "repo": "background-geolocation",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/camera-preview",
-          "description": "Capacitor plugin that allows camera interaction from HTML code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-17T17:04:05Z",
-            "owner": "capacitor-community",
-            "repo": "camera-preview",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/safe-area",
-          "description": "A plugin to expose the safe area insets from the native iOS/Android device to your web project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-13T08:44:19Z",
-            "owner": "capacitor-community",
-            "repo": "safe-area",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/keep-awake",
-          "description": "Capacitor plugin to prevent devices from dimming or locking the screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-27T04:24:57Z",
-            "owner": "capacitor-community",
-            "repo": "keep-awake",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/apple-sign-in",
-          "description": "Sign in with Apple Support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-01-28T16:43:36Z",
-            "owner": "capacitor-community",
-            "repo": "apple-sign-in",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/google-maps",
-          "description": "Capacitor Plugin using native Google Maps SDK for Android and iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-23T13:43:28Z",
-            "owner": "capacitor-community",
-            "repo": "google-maps",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/native-audio",
-          "description": "Capacitor community plugin for playing sounds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-09T01:06:48Z",
-            "owner": "capacitor-community",
-            "repo": "native-audio",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/contacts",
-          "description": "Contacts Plugin for Capacitor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-21T07:52:29Z",
-            "owner": "capacitor-community",
-            "repo": "contacts",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/vue-cli-plugin-capacitor",
-          "description": "A Vue CLI 3/4 Plugin for Capacitor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T03:52:59Z",
-            "owner": "capacitor-community",
-            "repo": "vue-cli-plugin-capacitor",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/media",
-          "description": "Capacitor plugin to activate extra media features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-27T00:10:05Z",
-            "owner": "capacitor-community",
-            "repo": "media",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/text-to-speech",
-          "description": "Capacitor plugin for synthesizing speech from text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-15T12:48:10Z",
-            "owner": "capacitor-community",
-            "repo": "text-to-speech",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/speech-recognition",
-          "description": "Capacitor community plugin for speech recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-29T05:14:35Z",
-            "owner": "capacitor-community",
-            "repo": "speech-recognition",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/facebook-login",
-          "description": "Facebook Login support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T08:24:21Z",
-            "owner": "capacitor-community",
-            "repo": "facebook-login",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/privacy-screen",
-          "description": "Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-28T11:27:21Z",
-            "owner": "capacitor-community",
-            "repo": "privacy-screen",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/app-icon",
-          "description": "Capacitor plugin for managing an iOS app's icon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-03T13:50:20Z",
-            "owner": "capacitor-community",
-            "repo": "app-icon",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/date-picker",
-          "description": "Native DateTime Picker Plugin for Capacitor Apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-09-12T12:22:54Z",
-            "owner": "capacitor-community",
-            "repo": "date-picker",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/intercom",
-          "description": "Enable Intercom for Capacitor apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-24T15:25:32Z",
-            "owner": "capacitor-community",
-            "repo": "intercom",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/photoviewer",
-          "description": "PhotoViewer table images with fullscreen and sharing capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-03T16:21:16Z",
-            "owner": "capacitor-community",
-            "repo": "photoviewer",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/native-market",
-          "description": "Capacitor community plugin for native market for Play Store/App Store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-25T23:59:45Z",
-            "owner": "capacitor-community",
-            "repo": "native-market",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/screen-brightness",
-          "description": "Capacitor community plugin for controlling screen brightness on iOS and Android devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-01-02T14:09:17Z",
-            "owner": "capacitor-community",
-            "repo": "screen-brightness",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Capacitor Community"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@capgo/capacitor-updater",
-          "description": "Live update for capacitor app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T14:02:14Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-updater",
-            "stars": 827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/inappbrowser",
-          "description": "Browser In app browser with urlChangeEvent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T12:21:28Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-inappbrowser",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/native-audio",
-          "description": "Capacitor plugin for native audio engine (fork).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T14:14:29Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-native-audio",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/camera-preview",
-          "description": "Capacitor plugin that allows camera interaction from HTML code (fork).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T03:54:19Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-camera-preview",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/nativegeocoder",
-          "description": "Native forward and reverse geocoding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T23:30:24Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-nativegeocoder",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/capacitor-screen-recorder",
-          "description": "Record screen and save to pelicule.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T08:45:44Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-screen-recorder",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/capacitor-flash",
-          "description": "Switch the Flashlight / Torch of your device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T23:32:22Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-flash",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/capacitor-crisp",
-          "description": "Crisp chat SDK for your app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T08:14:12Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-crisp",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/native-market",
-          "description": "Capacitor community plugin for native market for Play Store/App Store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T19:15:35Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-native-market",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capgo/capacitor-mute",
-          "description": "Detect silent mode and mute audio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T14:13:16Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-mute",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Capgo"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@aparajita/capacitor-secure-storage",
-          "description": "Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-12T18:22:42Z",
-            "owner": "aparajita",
-            "repo": "capacitor-secure-storage",
-            "stars": 166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@aparajita/capacitor-dark-mode",
-          "description": "Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-13T18:29:55Z",
-            "owner": "aparajita",
-            "repo": "capacitor-dark-mode",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@aparajita/capacitor-logger",
-          "description": "Better logging for the web and native Ionic/Capacitor apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-04-22T17:11:04Z",
-            "owner": "aparajita",
-            "repo": "capacitor-logger",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@aparajita/capacitor-ios-silent-notifications",
-          "description": "Silent (AKA remote) notification support for Capacitor apps on iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-31T15:26:32Z",
-            "owner": "aparajita",
-            "repo": "capacitor-ios-silent-notifications",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Aparajita"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@transistorsoft/capacitor-background-geolocation",
-          "description": "Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T14:05:19Z",
-            "owner": "transistorsoft",
-            "repo": "capacitor-background-geolocation",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@transistorsoft/capacitor-background-fetch",
-          "description": "Periodic callbacks in the background for both iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-21T13:50:28Z",
-            "owner": "transistorsoft",
-            "repo": "capacitor-background-fetch",
-            "stars": 92
-          }
-        }
-      ],
-      "title": "Transistor Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "capacitor-lottie-splash-screen",
-          "description": "Capacitor plugin to use Lottie animations as splash screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-29T06:43:48Z",
-            "owner": "ludufre",
-            "repo": "capacitor-lottie-splash-screen",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-live-activities",
-          "description": "Capacitor plugin to use Live Activities on iOS 16.2+.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-30T16:08:52Z",
-            "owner": "ludufre",
-            "repo": "capacitor-live-activities",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-screenshot",
-          "description": "Capacitor plugin to take screenshots.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-26T15:11:08Z",
-            "owner": "ludufre",
-            "repo": "capacitor-screenshot",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-app-attest",
-          "description": "Apple Attest with Ionic Capacitor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-05T03:17:02Z",
-            "owner": "ludufre",
-            "repo": "capacitor-app-attest",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Luan Freitas"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@codetrix-studio/capacitor-google-auth",
-          "description": "Capacitor plugin for Google Auth.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-11T00:12:53Z",
-            "owner": "CodetrixStudio",
-            "repo": "CapacitorGoogleAuth",
-            "stars": 334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@revenuecat/purchases-capacitor",
-          "description": "Capacitor in-app purchases and subscriptions made easy with RevenueCat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:58:35Z",
-            "owner": "RevenueCat",
-            "repo": "purchases-capacitor",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-plugin-safe-area",
-          "description": "Get SafeArea info on Android and IOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-09T09:01:12Z",
-            "owner": "AlwaysLoveme",
-            "repo": "capacitor-plugin-safe-area",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "send-intent",
-          "description": "This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-01T07:50:59Z",
-            "owner": "mindlib-capacitor",
-            "repo": "send-intent",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-video-player",
-          "description": "Capacitor Video Player Plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-11-18T02:13:25Z",
-            "owner": "harmonwood",
-            "repo": "capacitor-video-player",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ebarooni/capacitor-calendar",
-          "description": "Capacitor plugin for interacting with calendar and reminders.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-17T20:32:23Z",
-            "owner": "ebarooni",
-            "repo": "capacitor-calendar",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@teamhive/capacitor-video-recorder",
-          "description": "Video recorder plugin for Capacitor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-03-06T07:35:13Z",
-            "owner": "TeamMaestro",
-            "repo": "capacitor-video-recorder",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@wahr/capacitor-websocket-client",
-          "description": "Capacitor WebSocket Client Plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-15T10:41:34Z",
-            "owner": "OrdinarySF",
-            "repo": "capacitor-websocket-client",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@smartcompanion/native-audio-player",
-          "description": "Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-07T22:14:39Z",
-            "owner": "smartcompanion-app",
-            "repo": "native-audio-player",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@cartona/capacitor-google-play-availability",
-          "description": "Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-02-15T14:05:46Z",
-            "owner": "cartona",
-            "repo": "capacitor-google-play-availability",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-bing-translator",
-          "description": "A simple and free API for using Bing Translator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-23T03:34:33Z",
-            "owner": "sabereen",
-            "repo": "capacitor-bing-translator",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Other Creators"
-    },
-    {
       "description": "Everything related to using Firebase in a Capacitor app. See the Firebase plugin suite for the full documentation.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/fcm",
+              "description": "Enable Firebase Cloud Messaging for Capacitor apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167266429,
+                "language": "TypeScript",
+                "last_commit": "2026-01-22T11:28:36Z",
+                "owner": "capacitor-community",
+                "repo": "fcm",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-firebase-auth",
+              "description": "Capacitor Firebase Authentication Plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172803824,
+                "language": "Java",
+                "last_commit": "2023-07-11T06:17:57Z",
+                "owner": "baumblatt",
+                "repo": "capacitor-firebase-auth",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/firebase-analytics",
+              "description": "Enable Firebase Analytics for Capacitor Apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195344632,
+                "language": "Java",
+                "last_commit": "2026-08-12T06:19:30Z",
+                "owner": "capacitor-community",
+                "repo": "firebase-analytics",
+                "stars": 178
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firebase Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "capacitor-firebase-authentication-demo",
+              "description": "Simple Ionic Angular app to demonstrate the use of the Capacitor Firebase Authentication plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369643204,
+                "language": "TypeScript",
+                "last_commit": "2025-01-27T21:51:35Z",
+                "owner": "capawesome-team",
+                "repo": "capacitor-firebase-authentication-demo",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-firebase-plugin-demo",
+              "description": "Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407301606,
+                "language": "TypeScript",
+                "last_commit": "2026-06-02T16:57:55Z",
+                "owner": "capawesome-team",
+                "repo": "capacitor-firebase-plugin-demo",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ionic-capacitor-firebase-messaging-demo",
+              "description": "Simple Ionic Angular app to demonstrate the use of the Capacitor Firebase Messaging plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622666784,
+                "language": "TypeScript",
+                "last_commit": "2024-04-11T08:39:22Z",
+                "owner": "capawesome-team",
+                "repo": "ionic-capacitor-firebase-messaging-demo",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firebase Demo Apps"
+        }
+      ],
       "title": "Firebase"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/fcm",
-          "description": "Enable Firebase Cloud Messaging for Capacitor apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-22T11:28:36Z",
-            "owner": "capacitor-community",
-            "repo": "fcm",
-            "stars": 273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-firebase-auth",
-          "description": "Capacitor Firebase Authentication Plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-07-11T06:17:57Z",
-            "owner": "baumblatt",
-            "repo": "capacitor-firebase-auth",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@capacitor-community/firebase-analytics",
-          "description": "Enable Firebase Analytics for Capacitor Apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-12T06:19:30Z",
-            "owner": "capacitor-community",
-            "repo": "firebase-analytics",
-            "stars": 178
-          }
-        }
-      ],
-      "title": "Firebase Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "capacitor-firebase-authentication-demo",
-          "description": "Simple Ionic Angular app to demonstrate the use of the Capacitor Firebase Authentication plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-27T21:51:35Z",
-            "owner": "capawesome-team",
-            "repo": "capacitor-firebase-authentication-demo",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-firebase-plugin-demo",
-          "description": "Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-02T16:57:55Z",
-            "owner": "capawesome-team",
-            "repo": "capacitor-firebase-plugin-demo",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ionic-capacitor-firebase-messaging-demo",
-          "description": "Simple Ionic Angular app to demonstrate the use of the Capacitor Firebase Messaging plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-11T08:39:22Z",
-            "owner": "capawesome-team",
-            "repo": "ionic-capacitor-firebase-messaging-demo",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Firebase Demo Apps"
     },
     {
       "description": "Free and open source Capacitor starter apps.",
@@ -941,6 +1008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344585942,
             "language": "TypeScript",
             "last_commit": "2026-06-15T20:47:30Z",
             "owner": "capawesome-team",
@@ -955,6 +1023,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606172817,
             "language": "TypeScript",
             "last_commit": "2026-04-20T17:31:56Z",
             "owner": "capawesome-team",
@@ -969,6 +1038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275275537,
             "language": "TypeScript",
             "last_commit": "2026-08-07T13:05:51Z",
             "owner": "ionic-team",
@@ -983,6 +1053,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618608034,
             "language": "TypeScript",
             "last_commit": "2023-10-20T06:54:48Z",
             "owner": "capawesome-team",
@@ -997,6 +1068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525112955,
             "language": "TypeScript",
             "last_commit": "2026-03-01T09:28:39Z",
             "owner": "capawesome-team",
@@ -1011,6 +1083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1219661524,
             "language": "TypeScript",
             "last_commit": "2026-04-27T13:16:26Z",
             "owner": "capawesome-team",
@@ -1025,6 +1098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 835311900,
             "language": "Swift",
             "last_commit": "2026-06-15T06:28:21Z",
             "owner": "capawesome-team",
@@ -1039,6 +1113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1040235624,
             "language": "Swift",
             "last_commit": "2026-04-30T06:14:13Z",
             "owner": "capawesome-team",
@@ -1053,6 +1128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214046968,
             "language": "TypeScript",
             "last_commit": "2026-04-23T15:10:51Z",
             "owner": "capawesome-team",
@@ -1067,6 +1143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1252076017,
             "language": "TypeScript",
             "last_commit": "2026-05-28T10:05:47Z",
             "owner": "capawesome-team",
@@ -1081,6 +1158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214047211,
             "language": "TypeScript",
             "last_commit": "2026-04-23T15:11:09Z",
             "owner": "capawesome-team",
@@ -1095,6 +1173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232019364,
             "language": "JavaScript",
             "last_commit": "2026-05-07T14:55:19Z",
             "owner": "capawesome-team",
@@ -1109,6 +1188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160949224,
             "language": "JavaScript",
             "last_commit": "2026-02-20T13:22:39Z",
             "owner": "capawesome-team",
@@ -1123,6 +1203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1313868642,
             "language": "Swift",
             "last_commit": "2026-07-27T14:18:05Z",
             "owner": "capawesome-team",
@@ -1137,6 +1218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1090389187,
             "language": "HTML",
             "last_commit": "2025-11-05T16:02:23Z",
             "owner": "capawesome-team",
@@ -1148,7 +1230,7 @@
       "title": "Demo Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1157,6 +1239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165725806,
             "language": "TypeScript",
             "last_commit": "2026-01-22T11:38:23Z",
             "owner": "ionic-team",
@@ -1171,6 +1254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289376784,
             "language": "TypeScript",
             "last_commit": "2026-03-24T12:16:32Z",
             "owner": "ionic-team",
@@ -1185,6 +1269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048637142,
             "language": "TypeScript",
             "last_commit": "2026-07-14T13:03:52Z",
             "owner": "capawesome-team",
@@ -1199,6 +1284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 823195645,
             "language": "JavaScript",
             "last_commit": "2026-08-17T07:54:44Z",
             "owner": "Cap-go",
@@ -1213,6 +1299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299441025,
             "language": "TypeScript",
             "last_commit": "2025-12-03T09:11:34Z",
             "owner": "ionic-team",
@@ -1224,7 +1311,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1233,6 +1320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26858332,
             "language": null,
             "last_commit": "2021-04-18T23:43:16Z",
             "owner": "Alexintosh",
@@ -1247,8 +1335,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53809858,
             "language": null,
-            "last_commit": "2026-07-07T11:16:59Z",
+            "last_commit": "2026-08-18T16:26:16Z",
             "owner": "Cap-go",
             "repo": "awesome-ionic",
             "stars": 864
@@ -1256,21 +1345,12 @@
         }
       ],
       "title": "Related Lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Capawesome — Build and Ship Mobile Apps Faster.",
-      "items": [],
-      "title": "Author"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:18:44.790Z",
+    "last_updated": "2026-08-19T12:18:22.361Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
+    "original_repository_id": 386337469,
     "original_repository_sha": "0a8174105b485dd24d9835f86369fe9fe51075e6",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
     "enhanced_repository_description": null,
