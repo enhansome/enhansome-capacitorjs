@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 274447027,
                 "language": "Java",
-                "last_commit": "2026-08-19T03:59:38Z",
+                "last_commit": "2026-08-23T13:38:22Z",
                 "owner": "capacitor-community",
                 "repo": "admob",
                 "stars": 294
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 219177937,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T10:05:18Z",
+                "last_commit": "2026-08-23T02:58:08Z",
                 "owner": "capacitor-community",
                 "repo": "stripe",
                 "stars": 247
@@ -182,7 +182,7 @@
                 "last_commit": "2026-04-09T01:06:48Z",
                 "owner": "capacitor-community",
                 "repo": "native-audio",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -269,7 +269,7 @@
                 "archived": false,
                 "id": 274446961,
                 "language": "Java",
-                "last_commit": "2026-08-20T09:46:01Z",
+                "last_commit": "2026-08-23T02:58:07Z",
                 "owner": "capacitor-community",
                 "repo": "facebook-login",
                 "stars": 113
@@ -399,7 +399,7 @@
                 "last_commit": "2026-08-21T21:04:30Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 830
+                "stars": 833
               }
             },
             {
@@ -739,7 +739,7 @@
                 "archived": false,
                 "id": 427781657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:01:52Z",
+                "last_commit": "2026-08-23T00:11:13Z",
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
@@ -799,7 +799,7 @@
                 "archived": false,
                 "id": 752043661,
                 "language": "Swift",
-                "last_commit": "2026-08-22T09:52:41Z",
+                "last_commit": "2026-08-22T14:25:47Z",
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 86
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:04:42.651Z",
+    "last_updated": "2026-08-23T14:09:26.663Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_id": 386337469,
     "original_repository_sha": "0a8174105b485dd24d9835f86369fe9fe51075e6",
