@@ -739,7 +739,7 @@
                 "archived": false,
                 "id": 427781657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:24:28Z",
+                "last_commit": "2026-08-24T14:57:43Z",
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:50.269Z",
+    "last_updated": "2026-08-24T15:07:25.799Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_id": 386337469,
     "original_repository_sha": "0a8174105b485dd24d9835f86369fe9fe51075e6",
