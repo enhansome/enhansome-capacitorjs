@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 274447027,
                 "language": "Java",
-                "last_commit": "2026-08-23T13:38:22Z",
+                "last_commit": "2026-08-24T05:16:28Z",
                 "owner": "capacitor-community",
                 "repo": "admob",
                 "stars": 294
@@ -112,6 +112,21 @@
             },
             {
               "node_type": "item",
+              "title": "@capacitor-community/keep-awake",
+              "description": "Capacitor plugin to prevent devices from dimming or locking the screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225649811,
+                "language": "Swift",
+                "last_commit": "2026-05-27T04:24:57Z",
+                "owner": "capacitor-community",
+                "repo": "keep-awake",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
               "title": "@capacitor-community/safe-area",
               "description": "A plugin to expose the safe area insets from the native iOS/Android device to your web project.",
               "children": [],
@@ -123,21 +138,6 @@
                 "owner": "capacitor-community",
                 "repo": "safe-area",
                 "stars": 176
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "@capacitor-community/keep-awake",
-              "description": "Capacitor plugin to prevent devices from dimming or locking the screen.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 225649811,
-                "language": "Swift",
-                "last_commit": "2026-05-27T04:24:57Z",
-                "owner": "capacitor-community",
-                "repo": "keep-awake",
-                "stars": 175
               }
             },
             {
@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 420741081,
                 "language": "Java",
-                "last_commit": "2026-08-21T21:04:30Z",
+                "last_commit": "2026-08-24T14:03:04Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
@@ -739,7 +739,7 @@
                 "archived": false,
                 "id": 427781657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T00:11:13Z",
+                "last_commit": "2026-08-24T14:24:28Z",
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:09:26.663Z",
+    "last_updated": "2026-08-24T14:31:50.269Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_id": 386337469,
     "original_repository_sha": "0a8174105b485dd24d9835f86369fe9fe51075e6",
