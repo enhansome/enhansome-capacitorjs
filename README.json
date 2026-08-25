@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 420741081,
                 "language": "Java",
-                "last_commit": "2026-08-25T01:25:49Z",
+                "last_commit": "2026-08-25T14:27:40Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
@@ -471,7 +471,7 @@
                 "archived": false,
                 "id": 427230607,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T21:07:15Z",
+                "last_commit": "2026-08-25T12:12:58Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
                 "stars": 27
@@ -739,7 +739,7 @@
                 "archived": false,
                 "id": 427781657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:57:43Z",
+                "last_commit": "2026-08-25T12:20:41Z",
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
@@ -787,7 +787,7 @@
                 "last_commit": "2025-11-18T02:13:25Z",
                 "owner": "harmonwood",
                 "repo": "capacitor-video-player",
-                "stars": 129
+                "stars": 130
               }
             },
             {
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:07.179Z",
+    "last_updated": "2026-08-25T14:30:53.811Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_id": 386337469,
     "original_repository_sha": "dcda8a20e393befaafd1d820681acbd8314f1efe",
