@@ -272,7 +272,7 @@
                 "last_commit": "2026-08-23T02:58:07Z",
                 "owner": "capacitor-community",
                 "repo": "facebook-login",
-                "stars": 113
+                "stars": 114
               }
             },
             {
@@ -396,7 +396,7 @@
                 "archived": false,
                 "id": 420741081,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:27:40Z",
+                "last_commit": "2026-08-26T10:08:23Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
@@ -411,7 +411,7 @@
                 "archived": false,
                 "id": 515302020,
                 "language": "Java",
-                "last_commit": "2026-08-25T01:15:15Z",
+                "last_commit": "2026-08-26T07:05:37Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 131
@@ -456,7 +456,7 @@
                 "archived": false,
                 "id": 508654246,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:06:19Z",
+                "last_commit": "2026-08-25T16:17:17Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-nativegeocoder",
                 "stars": 41
@@ -471,7 +471,7 @@
                 "archived": false,
                 "id": 427230607,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T12:12:58Z",
+                "last_commit": "2026-08-26T10:16:44Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
                 "stars": 27
@@ -486,7 +486,7 @@
                 "archived": false,
                 "id": 428109916,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:58:14Z",
+                "last_commit": "2026-08-26T09:05:29Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-flash",
                 "stars": 24
@@ -501,7 +501,7 @@
                 "archived": false,
                 "id": 429967671,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:13:25Z",
+                "last_commit": "2026-08-26T10:13:45Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-crisp",
                 "stars": 18
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 517331734,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:57:29Z",
+                "last_commit": "2026-08-26T10:42:30Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-native-market",
                 "stars": 16
@@ -531,7 +531,7 @@
                 "archived": false,
                 "id": 426803627,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:59:08Z",
+                "last_commit": "2026-08-26T09:03:44Z",
                 "owner": "Cap-go",
                 "repo": "capacitor-mute",
                 "stars": 15
@@ -739,7 +739,7 @@
                 "archived": false,
                 "id": 427781657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:20:41Z",
+                "last_commit": "2026-08-26T12:52:29Z",
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
@@ -799,7 +799,7 @@
                 "archived": false,
                 "id": 752043661,
                 "language": "Swift",
-                "last_commit": "2026-08-24T21:27:39Z",
+                "last_commit": "2026-08-25T21:09:40Z",
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 86
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:30:53.811Z",
+    "last_updated": "2026-08-26T14:30:38.466Z",
     "original_repository": "capawesome-team/awesome-capacitorjs",
     "original_repository_id": 386337469,
     "original_repository_sha": "dcda8a20e393befaafd1d820681acbd8314f1efe",
