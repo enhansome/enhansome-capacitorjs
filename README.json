@@ -18,7 +18,8 @@
                 "owner": "capacitor-community",
                 "repo": "sqlite",
                 "stars": 658
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "capacitor-community",
                 "repo": "electron",
                 "stars": 398
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "capacitor-community",
                 "repo": "bluetooth-le",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 274447027,
                 "language": "Java",
-                "last_commit": "2026-08-27T03:12:25Z",
+                "last_commit": "2026-08-28T01:29:35Z",
                 "owner": "capacitor-community",
                 "repo": "admob",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "capacitor-community",
                 "repo": "background-geolocation",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "capacitor-community",
                 "repo": "stripe",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "capacitor-community",
                 "repo": "camera-preview",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "capacitor-community",
                 "repo": "keep-awake",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "capacitor-community",
                 "repo": "safe-area",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "capacitor-community",
                 "repo": "apple-sign-in",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -167,8 +177,9 @@
                 "last_commit": "2026-07-23T13:43:28Z",
                 "owner": "capacitor-community",
                 "repo": "google-maps",
-                "stars": 162
-              }
+                "stars": 161
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "capacitor-community",
                 "repo": "native-audio",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "capacitor-community",
                 "repo": "contacts",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "capacitor-community",
                 "repo": "vue-cli-plugin-capacitor",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "capacitor-community",
                 "repo": "media",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "capacitor-community",
                 "repo": "text-to-speech",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "capacitor-community",
                 "repo": "speech-recognition",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "capacitor-community",
                 "repo": "facebook-login",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "capacitor-community",
                 "repo": "privacy-screen",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "capacitor-community",
                 "repo": "app-icon",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "capacitor-community",
                 "repo": "date-picker",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "capacitor-community",
                 "repo": "intercom",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "capacitor-community",
                 "repo": "photoviewer",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "capacitor-community",
                 "repo": "native-market",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "capacitor-community",
                 "repo": "screen-brightness",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -400,7 +425,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
                 "stars": 833
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-native-audio",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-camera-preview",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-nativegeocoder",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-flash",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-crisp",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-native-market",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "Cap-go",
                 "repo": "capacitor-mute",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -557,7 +592,8 @@
                 "owner": "aparajita",
                 "repo": "capacitor-secure-storage",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -572,7 +608,8 @@
                 "owner": "aparajita",
                 "repo": "capacitor-dark-mode",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -587,7 +624,8 @@
                 "owner": "aparajita",
                 "repo": "capacitor-logger",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -602,7 +640,8 @@
                 "owner": "aparajita",
                 "repo": "capacitor-ios-silent-notifications",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -624,7 +663,8 @@
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-geolocation",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -639,7 +679,8 @@
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-fetch",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -661,7 +702,8 @@
                 "owner": "ludufre",
                 "repo": "capacitor-lottie-splash-screen",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "ludufre",
                 "repo": "capacitor-live-activities",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "ludufre",
                 "repo": "capacitor-screenshot",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "ludufre",
                 "repo": "capacitor-app-attest",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -728,7 +773,8 @@
                 "owner": "CodetrixStudio",
                 "repo": "CapacitorGoogleAuth",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -743,7 +789,8 @@
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 231
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -758,7 +805,8 @@
                 "owner": "AlwaysLoveme",
                 "repo": "capacitor-plugin-safe-area",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -773,7 +821,8 @@
                 "owner": "mindlib-capacitor",
                 "repo": "send-intent",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -788,7 +837,8 @@
                 "owner": "harmonwood",
                 "repo": "capacitor-video-player",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -803,7 +853,8 @@
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -818,7 +869,8 @@
                 "owner": "TeamMaestro",
                 "repo": "capacitor-video-recorder",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -833,7 +885,8 @@
                 "owner": "OrdinarySF",
                 "repo": "capacitor-websocket-client",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -848,7 +901,8 @@
                 "owner": "smartcompanion-app",
                 "repo": "native-audio-player",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -863,7 +917,8 @@
                 "owner": "cartona",
                 "repo": "capacitor-google-play-availability",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -878,7 +933,8 @@
                 "owner": "sabereen",
                 "repo": "capacitor-bing-translator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -906,7 +962,8 @@
                 "owner": "capacitor-community",
                 "repo": "fcm",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -921,7 +978,8 @@
                 "owner": "baumblatt",
                 "repo": "capacitor-firebase-auth",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -936,7 +994,8 @@
                 "owner": "capacitor-community",
                 "repo": "firebase-analytics",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -958,7 +1017,8 @@
                 "owner": "capawesome-team",
                 "repo": "capacitor-firebase-authentication-demo",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1033,8 @@
                 "owner": "capawesome-team",
                 "repo": "capacitor-firebase-plugin-demo",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1049,8 @@
                 "owner": "capawesome-team",
                 "repo": "ionic-capacitor-firebase-messaging-demo",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
             }
           ],
           "description": null,
@@ -1014,7 +1076,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-plugin-demo",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1029,7 +1092,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-mlkit-plugin-demo",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1044,7 +1108,8 @@
             "owner": "ionic-team",
             "repo": "capacitor-testapp",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1059,7 +1124,8 @@
             "owner": "capawesome-team",
             "repo": "ionic-capacitor-barcode-scanner-demo",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1074,7 +1140,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-nfc-demo",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1089,7 +1156,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-angular-starter-guide-demo",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1104,7 +1172,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-live-update-demo",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1119,7 +1188,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-share-target-demo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1134,7 +1204,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-sqlite-angular-demo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1149,7 +1220,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-vault-demo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1164,7 +1236,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-sqlite-react-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1179,7 +1252,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-oauth-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1194,7 +1268,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-biometrics-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1209,7 +1284,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-privacy-screen-demo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1224,7 +1300,8 @@
             "owner": "capawesome-team",
             "repo": "capacitor-audio-recorder-demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         }
       ],
       "title": "Demo Apps"
@@ -1245,7 +1322,8 @@
             "owner": "ionic-team",
             "repo": "capacitor-assets",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1260,7 +1338,8 @@
             "owner": "ionic-team",
             "repo": "create-capacitor-plugin",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1275,7 +1354,8 @@
             "owner": "capawesome-team",
             "repo": "capver",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1290,7 +1370,8 @@
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1305,7 +1386,8 @@
             "owner": "ionic-team",
             "repo": "capacitor-docgen",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         }
       ],
       "title": "Tools"
@@ -1326,7 +1408,8 @@
             "owner": "Alexintosh",
             "repo": "Awesome-Ionic",
             "stars": 1462
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         },
         {
           "node_type": "item",
@@ -1341,14 +1424,15 @@
             "owner": "Cap-go",
             "repo": "awesome-ionic",
             "stars": 864
-          }
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:45.729Z",
+    "last_updated": "2026-08-28T23:13:57.330Z",
     "original_repository_info": {
       "archived": false,
       "id": 386337469,
