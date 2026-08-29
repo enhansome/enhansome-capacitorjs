@@ -21,7 +21,7 @@
                 "open_issues": 38,
                 "owner": "capacitor-community",
                 "repo": "sqlite",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "capacitor",
                   "capacitor-community",
@@ -94,7 +94,7 @@
                 "id": 274447027,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-28T01:29:35Z",
+                "last_commit": "2026-08-29T13:11:22Z",
                 "open_issues": 29,
                 "owner": "capacitor-community",
                 "repo": "admob",
@@ -136,7 +136,7 @@
                 "id": 219177937,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T03:12:25Z",
+                "last_commit": "2026-08-29T13:11:20Z",
                 "open_issues": 10,
                 "owner": "capacitor-community",
                 "repo": "stripe",
@@ -428,7 +428,7 @@
                 "id": 274446961,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-27T02:21:57Z",
+                "last_commit": "2026-08-29T13:11:22Z",
                 "open_issues": 19,
                 "owner": "capacitor-community",
                 "repo": "facebook-login",
@@ -656,7 +656,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "browser",
                   "capacitor",
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:16.593Z",
+    "last_updated": "2026-08-29T17:25:17.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
@@ -2197,10 +2197,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-24T18:59:16Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "capawesome-team",
       "repo": "awesome-capacitorjs",
-      "stars": 200,
+      "stars": 201,
       "topics": [
         "android",
         "awesome",
