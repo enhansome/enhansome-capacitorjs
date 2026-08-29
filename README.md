@@ -387,7 +387,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 * [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 294 | 🐛 29 | 🌐 Java | 📅 2026-08-28 - Community plugin for using Google AdMob.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 248 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
 * [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-27 - Stripe Mobile SDK wrapper for Capacitor.
-* [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 227 | 🐛 93 | 🌐 Java | 📅 2026-04-17 - Capacitor plugin that allows camera interaction from HTML code.
+* [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 227 | 🐛 93 | 🌐 Java | 📅 2026-08-29 - Capacitor plugin that allows camera interaction from HTML code.
 * [@capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) ⭐ 176 | 🐛 10 | 🌐 Swift | 📅 2026-05-27 - Capacitor plugin to prevent devices from dimming or locking the screen.
 * [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) ⭐ 176 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 * [@capacitor-community/apple-sign-in](https://github.com/capacitor-community/apple-sign-in) ⭐ 168 | 🐛 29 | 🌐 Swift | 📅 2026-01-28 - Sign in with Apple Support.
@@ -409,7 +409,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 833 | 🐛 8 | 🌐 Java | 📅 2026-08-26 - Live update for capacitor app.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 834 | 🐛 8 | 🌐 Java | 📅 2026-08-26 - Live update for capacitor app.
 * [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 131 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Browser In app browser with urlChangeEvent.
 * [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 75 | 🐛 1 | 🌐 Java | 📅 2026-08-20 - Capacitor plugin for native audio engine (fork).
 * [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2026-08-26 - Capacitor plugin that allows camera interaction from HTML code (fork).
@@ -495,7 +495,7 @@ Free and open source Capacitor starter apps.
 * [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) ⭐ 41 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-07 - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
 * [ionic-capacitor-barcode-scanner-demo](https://github.com/capawesome-team/ionic-capacitor-barcode-scanner-demo) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-20 - Simple Ionic Angular app to demonstrate the use of the Capacitor ML Kit Barcode Scanning plugin.
 * [capacitor-nfc-demo](https://github.com/capawesome-team/capacitor-nfc-demo) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-01 - Simple Ionic Angular app to demonstrate the use of the Capacitor NFC plugin.
-* [capacitor-angular-starter-guide-demo](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-27 - Simple Ionic Angular app, built as part of the Capawesome starter guide.
+* [capacitor-angular-starter-guide-demo](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-27 - Simple Ionic Angular app, built as part of the Capawesome starter guide.
 * [capacitor-live-update-demo](https://github.com/capawesome-team/capacitor-live-update-demo) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2026-06-15 - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
 * [capacitor-share-target-demo](https://github.com/capawesome-team/capacitor-share-target-demo) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-04-30 - Simple Capacitor app to demonstrate the use of the Share Target plugin.
 * [capacitor-sqlite-angular-demo](https://github.com/capawesome-team/capacitor-sqlite-angular-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-23 - Simple Ionic Angular app to demonstrate the use of the Capacitor SQLite plugin.
@@ -568,4 +568,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
