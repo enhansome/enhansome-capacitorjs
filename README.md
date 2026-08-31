@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,455 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-28
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,513 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-28
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -398,7 +398,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 * [@capacitor-community/media](https://github.com/capacitor-community/media) ⭐ 133 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-27 - Capacitor plugin to activate extra media features.
 * [@capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) ⭐ 130 | 🐛 19 | 🌐 Java | 📅 2026-06-15 - Capacitor plugin for synthesizing speech from text.
 * [@capacitor-community/speech-recognition](https://github.com/capacitor-community/speech-recognition) ⭐ 129 | 🐛 26 | 🌐 Java | 📅 2026-05-29 - Capacitor community plugin for speech recognition.
-* [@capacitor-community/facebook-login](https://github.com/capacitor-community/facebook-login) ⭐ 114 | 🐛 19 | 🌐 Java | 📅 2026-08-30 - Facebook Login support.
+* [@capacitor-community/facebook-login](https://github.com/capacitor-community/facebook-login) ⭐ 114 | 🐛 20 | 🌐 Java | 📅 2026-08-30 - Facebook Login support.
 * [@capacitor-community/privacy-screen](https://github.com/capacitor-community/privacy-screen) ⭐ 103 | 🐛 10 | 🌐 Swift | 📅 2026-04-28 - Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
 * [@capacitor-community/app-icon](https://github.com/capacitor-community/app-icon) ⭐ 102 | 🐛 8 | 🌐 Swift | 📅 2026-08-03 - Capacitor plugin for managing an iOS app's icon.
 * [@capacitor-community/date-picker](https://github.com/capacitor-community/date-picker) ⭐ 94 | 🐛 27 | 🌐 Swift | 📅 2025-09-12 - Native DateTime Picker Plugin for Capacitor Apps.
@@ -409,16 +409,16 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 835 | 🐛 8 | 🌐 Java | 📅 2026-08-26 - Live update for capacitor app.
-* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 132 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Browser In app browser with urlChangeEvent.
-* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 75 | 🐛 1 | 🌐 Java | 📅 2026-08-20 - Capacitor plugin for native audio engine (fork).
-* [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2026-08-26 - Capacitor plugin that allows camera interaction from HTML code (fork).
-* [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 41 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-27 - Native forward and reverse geocoding.
-* [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 28 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-27 - Record screen and save to pelicule.
-* [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 24 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Switch the Flashlight / Torch of your device.
-* [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 18 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-26 - Crisp chat SDK for your app.
-* [@capgo/native-market](https://github.com/Cap-go/capacitor-native-market) ⭐ 16 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Capacitor community plugin for native market for Play Store/App Store.
-* [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) ⭐ 15 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Detect silent mode and mute audio.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 837 | 🐛 10 | 🌐 Java | 📅 2026-08-31 - Live update for capacitor app.
+* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 132 | 🐛 2 | 🌐 Java | 📅 2026-08-31 - Browser In app browser with urlChangeEvent.
+* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 75 | 🐛 1 | 🌐 Java | 📅 2026-08-31 - Capacitor plugin for native audio engine (fork).
+* [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 50 | 🐛 6 | 🌐 Java | 📅 2026-08-31 - Capacitor plugin that allows camera interaction from HTML code (fork).
+* [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 41 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-31 - Native forward and reverse geocoding.
+* [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 28 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-31 - Record screen and save to pelicule.
+* [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 24 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-31 - Switch the Flashlight / Torch of your device.
+* [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 18 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-31 - Crisp chat SDK for your app.
+* [@capgo/native-market](https://github.com/Cap-go/capacitor-native-market) ⭐ 16 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-31 - Capacitor community plugin for native market for Play Store/App Store.
+* [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) ⭐ 15 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-31 - Detect silent mode and mute audio.
 
 ### Aparajita
 
@@ -429,7 +429,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Transistor Software
 
-* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-14 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
+* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-30 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
 * [@transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-21 - Periodic callbacks in the background for both iOS and Android.
 
 ### Luan Freitas
@@ -442,11 +442,11 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 ### Other Creators
 
 * [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) ⭐ 334 | 🐛 135 | 🌐 TypeScript | 📅 2025-01-11 - Capacitor plugin for Google Auth.
-* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 231 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-27 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 231 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-31 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 * [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) ⭐ 144 | 🐛 6 | 🌐 Java | 📅 2026-07-09 - Get SafeArea info on Android and IOS.
 * [send-intent](https://github.com/mindlib-capacitor/send-intent) ⭐ 134 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-01 - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 * [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) ⭐ 130 | 🐛 31 | 🌐 Java | 📅 2025-11-18 - Capacitor Video Player Plugin.
-* [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 86 | 🐛 3 | 🌐 Swift | 📅 2026-08-30 - Capacitor plugin for interacting with calendar and reminders.
+* [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 86 | 🐛 5 | 🌐 Swift | 📅 2026-08-31 - Capacitor plugin for interacting with calendar and reminders.
 * [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) ⭐ 61 | 🐛 31 | 🌐 Swift | 📅 2023-03-06 - Video recorder plugin for Capacitor.
 * [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) ⭐ 51 | 🐛 0 | 🌐 Swift | 📅 2026-08-15 - Capacitor WebSocket Client Plugin.
 * [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) ⭐ 5 | 🐛 5 | 🌐 Java | 📅 2026-08-07 - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
@@ -510,8 +510,8 @@ Free and open source Capacitor starter apps.
 
 * [Assets](https://github.com/ionic-team/capacitor-assets) ⭐ 584 | 🐛 86 | 🌐 TypeScript | 📅 2026-01-22 - Local Capacitor icon/splash screen resource generation tool.
 * [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) ⭐ 121 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-24 - Create a new Capacitor plugin.
-* [Capver](https://github.com/capawesome-team/capver) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - CLI for managing versions in a Capacitor project across multiple platforms.
-* [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-17 - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
+* [Capver](https://github.com/capawesome-team/capver) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 - CLI for managing versions in a Capacitor project across multiple platforms.
+* [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-31 - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
 * [Docgen](https://github.com/ionic-team/capacitor-docgen) ⭐ 13 | 🐛 13 | 🌐 TypeScript | 📅 2025-12-03 - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 * [Capacitor Safe Area Simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it supports Ionic, Konsta UI and Tailwind Capacitor.
 * [Android Keystore Generator](https://capawesome.io/tools/android-keystore-generator/) - Generate Android keystores for app signing directly in the browser.
@@ -532,6 +532,7 @@ Production apps whose use of Capacitor is publicly documented.
 * [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
 * [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.
 * [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova to Capacitor migration.
+* [Kapsula](https://dev.to/vladifedorov/running-untrusted-single-file-html-as-a-phone-app-sandbox-exact-alarms-and-a-5-method-bridge-2lc6) - App that runs a single user-supplied HTML file as a sandboxed mini-app with exact alarms, with a write-up of its Capacitor sandbox and bridge architecture.
 * [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals, built with Capacitor and custom plugins.
 * [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H\&R Block, running on Capacitor.
 * [snapAddy](https://capawesome.io/blog/case-study-snapaddy-live-updates/) - B2B contact data capture app with more than 200,000 monthly active users.
@@ -568,4 +569,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
