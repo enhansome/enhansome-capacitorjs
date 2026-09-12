@@ -116,7 +116,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2025-08-28T11:45:02Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "capacitor-community",
                 "repo": "background-geolocation",
                 "stars": 249,
@@ -626,7 +626,7 @@
                 "open_issues": 13,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 848,
+                "stars": 850,
                 "topics": [
                   "android",
                   "capacitor",
@@ -652,11 +652,11 @@
                 "id": 515302020,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-10T15:43:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T17:54:49Z",
+                "open_issues": 3,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
-                "stars": 132,
+                "stars": 134,
                 "topics": [
                   "browser",
                   "capacitor",
@@ -681,7 +681,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-audio",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "audio",
                   "capacitor",
@@ -707,7 +707,7 @@
                 "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-camera-preview",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -732,7 +732,7 @@
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-nativegeocoder",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "android",
                   "capacitor",
@@ -755,11 +755,11 @@
                 "id": 427230607,
                 "language": "Kotlin",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-09T22:17:18Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-11T22:21:34Z",
+                "open_issues": 12,
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -784,7 +784,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-flash",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -809,7 +809,7 @@
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-crisp",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "android",
                   "capacitor",
@@ -837,7 +837,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-market",
-                "stars": 16,
+                "stars": 18,
                 "topics": [
                   "capacitor",
                   "capacitor-plugin",
@@ -862,7 +862,7 @@
                 "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-mute",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2009,7 +2009,7 @@
             "open_issues": 87,
             "owner": "ionic-team",
             "repo": "capacitor-assets",
-            "stars": 584,
+            "stars": 583,
             "topics": [
               "capacitor",
               "ionic"
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:20:31.171Z",
+    "last_updated": "2026-09-12T16:33:45.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
