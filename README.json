@@ -161,8 +161,8 @@
                 "id": 195606666,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:32:22Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-13T04:57:26Z",
+                "open_issues": 94,
                 "owner": "capacitor-community",
                 "repo": "camera-preview",
                 "stars": 227,
@@ -1006,7 +1006,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-07T15:41:34Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-geolocation",
                 "stars": 143,
@@ -1451,7 +1451,7 @@
                 "open_issues": 29,
                 "owner": "capacitor-community",
                 "repo": "fcm",
-                "stars": 273,
+                "stars": 272,
                 "topics": [
                   "android",
                   "angular",
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:33:45.644Z",
+    "last_updated": "2026-09-13T17:04:28.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",

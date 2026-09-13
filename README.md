@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,649 | 🐛 117 | 🌐 TypeScript | 📅 2026-09-11
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,655 | 🐛 117 | 🌐 TypeScript | 📅 2026-09-11
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -387,7 +387,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 * [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 296 | 🐛 36 | 🌐 Java | 📅 2026-09-11 - Community plugin for using Google AdMob.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 249 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
 * [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-11 - Stripe Mobile SDK wrapper for Capacitor.
-* [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 227 | 🐛 93 | 🌐 Java | 📅 2026-08-29 - Capacitor plugin that allows camera interaction from HTML code.
+* [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 227 | 🐛 94 | 🌐 Java | 📅 2026-09-13 - Capacitor plugin that allows camera interaction from HTML code.
 * [@capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) ⭐ 176 | 🐛 10 | 🌐 Swift | 📅 2026-05-27 - Capacitor plugin to prevent devices from dimming or locking the screen.
 * [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) ⭐ 176 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 * [@capacitor-community/apple-sign-in](https://github.com/capacitor-community/apple-sign-in) ⭐ 168 | 🐛 29 | 🌐 Swift | 📅 2026-01-28 - Sign in with Apple Support.
@@ -429,7 +429,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Transistor Software
 
-* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-07 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
+* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-07 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
 * [@transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-21 - Periodic callbacks in the background for both iOS and Android.
 
 ### Luan Freitas
@@ -459,7 +459,7 @@ Everything related to using Firebase in a Capacitor app. See the [Firebase plugi
 
 ### Firebase Plugins
 
-* [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) ⭐ 273 | 🐛 29 | 🌐 TypeScript | 📅 2026-01-22 - Enable Firebase Cloud Messaging for Capacitor apps.
+* [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) ⭐ 272 | 🐛 29 | 🌐 TypeScript | 📅 2026-01-22 - Enable Firebase Cloud Messaging for Capacitor apps.
 * [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) ⭐ 263 | 🐛 116 | 🌐 Java | 📅 2023-07-11 - Capacitor Firebase Authentication Plugin.
 * [@capacitor-community/firebase-analytics](https://github.com/capacitor-community/firebase-analytics) ⭐ 178 | 🐛 46 | 🌐 Java | 📅 2026-08-27 - Enable Firebase Analytics for Capacitor Apps.
 * [@capacitor-firebase/analytics](https://capawesome.io/docs/sdks/capacitor/firebase/analytics/) - Capacitor plugin for Firebase Analytics.
@@ -569,4 +569,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
