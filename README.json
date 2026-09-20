@@ -186,7 +186,7 @@
                 "open_issues": 0,
                 "owner": "capacitor-community",
                 "repo": "safe-area",
-                "stars": 176,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -622,7 +622,7 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-19T16:34:49Z",
+                "last_commit": "2026-09-20T08:07:29Z",
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
@@ -1149,7 +1149,7 @@
                 "open_issues": 135,
                 "owner": "CodetrixStudio",
                 "repo": "CapacitorGoogleAuth",
-                "stars": 333,
+                "stars": 334,
                 "topics": [
                   "android",
                   "authentication",
@@ -1175,7 +1175,7 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T15:01:10Z",
+                "last_commit": "2026-09-20T00:23:51Z",
                 "open_issues": 25,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
@@ -1268,8 +1268,8 @@
                 "id": 752043661,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-18T22:22:24Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-20T16:15:06Z",
+                "open_issues": 5,
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 87,
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:49:54.226Z",
+    "last_updated": "2026-09-20T17:02:58.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
@@ -2200,7 +2200,7 @@
       "open_issues": 1,
       "owner": "capawesome-team",
       "repo": "awesome-capacitorjs",
-      "stars": 205,
+      "stars": 204,
       "topics": [
         "android",
         "awesome",
