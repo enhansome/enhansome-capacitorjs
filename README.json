@@ -626,7 +626,7 @@
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 859,
+                "stars": 860,
                 "topics": [
                   "android",
                   "capacitor",
@@ -652,8 +652,8 @@
                 "id": 515302020,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-25T08:59:12Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-28T13:19:14Z",
+                "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 135,
@@ -1005,7 +1005,7 @@
                 "id": 190391218,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T17:11:18Z",
+                "last_commit": "2026-09-27T20:32:50Z",
                 "open_issues": 12,
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-geolocation",
@@ -1175,11 +1175,11 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T00:25:40Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-28T10:03:16Z",
+                "open_issues": 21,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2204,7 +2204,7 @@
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "awesome-ionic",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2223,7 +2223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:57:01.972Z",
+    "last_updated": "2026-09-28T20:16:23.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
