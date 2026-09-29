@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,745 | 🐛 136 | 🌐 TypeScript | 📅 2026-09-28
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,751 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-29
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -383,10 +383,10 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 * [@capacitor-community/sqlite](https://github.com/capacitor-community/sqlite) ⭐ 663 | 🐛 38 | 🌐 Swift | 📅 2026-08-06 - Community plugin for native & electron SQLite databases.
 * [@capacitor-community/electron](https://github.com/capacitor-community/electron) ⭐ 398 | 🐛 66 | 🌐 TypeScript | 📅 2026-07-13 - Capacitor plugin to run Capacitor apps on Electron.
-* [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 361 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-10 - Capacitor plugin for Bluetooth Low Energy.
+* [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 360 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-10 - Capacitor plugin for Bluetooth Low Energy.
 * [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 299 | 🐛 38 | 🌐 Java | 📅 2026-09-11 - Community plugin for using Google AdMob.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 250 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-* [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - Stripe Mobile SDK wrapper for Capacitor.
+* [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-29 - Stripe Mobile SDK wrapper for Capacitor.
 * [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 228 | 🐛 89 | 🌐 Java | 📅 2026-09-25 - Capacitor plugin that allows camera interaction from HTML code.
 * [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) ⭐ 178 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 * [@capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) ⭐ 175 | 🐛 10 | 🌐 Swift | 📅 2026-05-27 - Capacitor plugin to prevent devices from dimming or locking the screen.
@@ -409,9 +409,9 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 860 | 🐛 6 | 🌐 Java | 📅 2026-09-25 - Live update for capacitor app.
-* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 135 | 🐛 6 | 🌐 Java | 📅 2026-09-28 - Browser In app browser with urlChangeEvent.
-* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 78 | 🐛 1 | 🌐 Java | 📅 2026-09-23 - Capacitor plugin for native audio engine (fork).
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 861 | 🐛 9 | 🌐 Java | 📅 2026-09-29 - Live update for capacitor app.
+* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 135 | 🐛 8 | 🌐 Java | 📅 2026-09-28 - Browser In app browser with urlChangeEvent.
+* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 1 | 🌐 Java | 📅 2026-09-23 - Capacitor plugin for native audio engine (fork).
 * [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 51 | 🐛 8 | 🌐 Java | 📅 2026-09-25 - Capacitor plugin that allows camera interaction from HTML code (fork).
 * [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 42 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-24 - Native forward and reverse geocoding.
 * [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 29 | 🐛 8 | 🌐 Swift | 📅 2026-09-23 - Record screen and save to pelicule.
@@ -442,14 +442,14 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 ### Other Creators
 
 * [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) ⭐ 334 | 🐛 135 | 🌐 TypeScript | 📅 2025-01-11 - Capacitor plugin for Google Auth.
-* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 233 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-28 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 233 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-29 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 * [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) ⭐ 147 | 🐛 6 | 🌐 Java | 📅 2026-07-09 - Get SafeArea info on Android and IOS.
 * [send-intent](https://github.com/mindlib-capacitor/send-intent) ⭐ 134 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-01 - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 * [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) ⭐ 130 | 🐛 31 | 🌐 Java | 📅 2025-11-18 - Capacitor Video Player Plugin.
 * [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 87 | 🐛 7 | 🌐 Swift | 📅 2026-09-23 - Capacitor plugin for interacting with calendar and reminders.
 * [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) ⭐ 61 | 🐛 31 | 🌐 Swift | 📅 2023-03-06 - Video recorder plugin for Capacitor.
 * [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) ⭐ 51 | 🐛 0 | 🌐 Swift | 📅 2026-08-15 - Capacitor WebSocket Client Plugin.
-* [@erkamyaman/capacitor-foldable](https://github.com/erkamyaman/capacitor-foldable) ⭐ 17 | 🐛 4 | 🌐 Swift | 📅 2026-09-27 - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
+* [@erkamyaman/capacitor-foldable](https://github.com/erkamyaman/capacitor-foldable) ⭐ 18 | 🐛 4 | 🌐 Swift | 📅 2026-09-29 - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
 * [@smartcompanion/native-audio-player](https://github.com/smartcompanion-app/native-audio-player) ⭐ 5 | 🐛 9 | 🌐 Java | 📅 2026-09-01 - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 * [@cartona/capacitor-google-play-availability](https://github.com/cartona/capacitor-google-play-availability) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2024-02-15 - Capacitor plugin to verify that Google Play services is installed and enabled, and request enabling Google Play services on device.
 * [capacitor-bing-translator](https://github.com/sabereen/capacitor-bing-translator) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2023-10-23 - A simple and free API for using Bing Translator.
@@ -460,7 +460,7 @@ Everything related to using Firebase in a Capacitor app. See the [Firebase plugi
 
 ### Firebase Plugins
 
-* [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) ⭐ 272 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-22 - Enable Firebase Cloud Messaging for Capacitor apps.
+* [@capacitor-community/fcm](https://github.com/capacitor-community/fcm) ⭐ 272 | 🐛 2 | 🌐 Swift | 📅 2026-09-29 - Enable Firebase Cloud Messaging for Capacitor apps.
 * [capacitor-firebase-auth](https://github.com/baumblatt/capacitor-firebase-auth) ⭐ 263 | 🐛 116 | 🌐 Java | 📅 2023-07-11 - Capacitor Firebase Authentication Plugin.
 * [@capacitor-community/firebase-analytics](https://github.com/capacitor-community/firebase-analytics) ⭐ 178 | 🐛 46 | 🌐 Java | 📅 2026-08-27 - Enable Firebase Analytics for Capacitor Apps.
 * [@capacitor-firebase/analytics](https://capawesome.io/docs/sdks/capacitor/firebase/analytics/) - Capacitor plugin for Firebase Analytics.
@@ -570,4 +570,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
