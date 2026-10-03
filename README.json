@@ -622,7 +622,7 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-02T18:26:56Z",
+                "last_commit": "2026-10-02T22:43:36Z",
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
@@ -898,7 +898,7 @@
                 "open_issues": 2,
                 "owner": "aparajita",
                 "repo": "capacitor-secure-storage",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "capacitor",
                   "capacitor-android",
@@ -1268,8 +1268,8 @@
                 "id": 752043661,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:20:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-02T21:44:40Z",
+                "open_issues": 6,
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 88,
@@ -2162,7 +2162,7 @@
         {
           "node_type": "item",
           "title": "Alexintosh/Awesome-Ionic",
-          "description": null,
+          "description": "Alexintosh/Awesome-Ionic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2188,7 +2188,7 @@
         {
           "node_type": "item",
           "title": "Cap-go/awesome-ionic",
-          "description": null,
+          "description": "Cap-go/awesome-ionic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:39.507Z",
+    "last_updated": "2026-10-03T04:41:42.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
