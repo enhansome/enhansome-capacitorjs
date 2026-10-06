@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,788 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,792 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -384,7 +384,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 * [@capacitor-community/sqlite](https://github.com/capacitor-community/sqlite) ⭐ 663 | 🐛 38 | 🌐 Swift | 📅 2026-08-06 - Community plugin for native & electron SQLite databases.
 * [@capacitor-community/electron](https://github.com/capacitor-community/electron) ⭐ 398 | 🐛 65 | 🌐 TypeScript | 📅 2026-07-13 - Capacitor plugin to run Capacitor apps on Electron.
 * [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 359 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-10 - Capacitor plugin for Bluetooth Low Energy.
-* [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 299 | 🐛 28 | 🌐 Java | 📅 2026-10-06 - Community plugin for using Google AdMob.
+* [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 299 | 🐛 27 | 🌐 Java | 📅 2026-10-06 - Community plugin for using Google AdMob.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 250 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
 * [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 247 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-06 - Stripe Mobile SDK wrapper for Capacitor.
 * [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 229 | 🐛 92 | 🌐 Java | 📅 2026-10-04 - Capacitor plugin that allows camera interaction from HTML code.
@@ -429,7 +429,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Transistor Software
 
-* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 145 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-06 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
+* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-06 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
 * [@transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-21 - Periodic callbacks in the background for both iOS and Android.
 
 ### Luan Freitas
@@ -442,11 +442,11 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 ### Other Creators
 
 * [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) ⭐ 335 | 🐛 135 | 🌐 TypeScript | 📅 2025-01-11 - Capacitor plugin for Google Auth.
-* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 233 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-06 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 232 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-06 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 * [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) ⭐ 147 | 🐛 6 | 🌐 Java | 📅 2026-07-09 - Get SafeArea info on Android and IOS.
 * [send-intent](https://github.com/mindlib-capacitor/send-intent) ⭐ 134 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-01 - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 * [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) ⭐ 130 | 🐛 31 | 🌐 Java | 📅 2025-11-18 - Capacitor Video Player Plugin.
-* [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 88 | 🐛 5 | 🌐 Swift | 📅 2026-10-05 - Capacitor plugin for interacting with calendar and reminders.
+* [@ebarooni/capacitor-calendar](https://github.com/ebarooni/capacitor-calendar) ⭐ 87 | 🐛 6 | 🌐 Swift | 📅 2026-10-06 - Capacitor plugin for interacting with calendar and reminders.
 * [@teamhive/capacitor-video-recorder](https://github.com/TeamMaestro/capacitor-video-recorder) ⭐ 61 | 🐛 31 | 🌐 Swift | 📅 2023-03-06 - Video recorder plugin for Capacitor.
 * [@wahr/capacitor-websocket-client](https://github.com/OrdinarySF/capacitor-websocket-client) ⭐ 51 | 🐛 0 | 🌐 Swift | 📅 2026-08-15 - Capacitor WebSocket Client Plugin.
 * [@erkamyaman/capacitor-foldable](https://github.com/erkamyaman/capacitor-foldable) ⭐ 22 | 🐛 4 | 🌐 Swift | 📅 2026-10-01 - Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.
@@ -497,7 +497,7 @@ Free and open source Capacitor starter apps.
 * [ionic-capacitor-barcode-scanner-demo](https://github.com/capawesome-team/ionic-capacitor-barcode-scanner-demo) ⚠️ Archived - Simple Ionic Angular app to demonstrate the use of the Capacitor ML Kit Barcode Scanning plugin.
 * [capacitor-nfc-demo](https://github.com/capawesome-team/capacitor-nfc-demo) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - Simple Ionic Angular app to demonstrate the use of the Capacitor NFC plugin.
 * [capacitor-angular-starter-guide-demo](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04 - Simple Ionic Angular app, built as part of the Capawesome starter guide.
-* [capacitor-live-update-demo](https://github.com/capawesome-team/capacitor-live-update-demo) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2026-10-04 - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
+* [capacitor-live-update-demo](https://github.com/capawesome-team/capacitor-live-update-demo) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06 - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
 * [capacitor-share-target-demo](https://github.com/capawesome-team/capacitor-share-target-demo) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-10-04 - Simple Capacitor app to demonstrate the use of the Share Target plugin.
 * [capacitor-sqlite-angular-demo](https://github.com/capawesome-team/capacitor-sqlite-angular-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - Simple Ionic Angular app to demonstrate the use of the Capacitor SQLite plugin.
 * [capacitor-vault-demo](https://github.com/capawesome-team/capacitor-vault-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - Simple Ionic Angular app to demonstrate the use of the Capacitor Vault plugin.
@@ -512,7 +512,7 @@ Free and open source Capacitor starter apps.
 * [Assets](https://github.com/ionic-team/capacitor-assets) ⭐ 584 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-30 - Local Capacitor icon/splash screen resource generation tool.
 * [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) ⭐ 123 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-09 - Create a new Capacitor plugin.
 * [Capver](https://github.com/capawesome-team/capver) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-31 - CLI for managing versions in a Capacitor project across multiple platforms.
-* [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-05 - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
+* [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-06 - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
 * [Docgen](https://github.com/ionic-team/capacitor-docgen) ⭐ 13 | 🐛 13 | 🌐 TypeScript | 📅 2025-12-03 - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 * [Capacitor Safe Area Simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it supports Ionic, Konsta UI and Tailwind Capacitor.
 * [Android Keystore Generator](https://capawesome.io/tools/android-keystore-generator/) - Generate Android keystores for app signing directly in the browser.
