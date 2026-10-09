@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,809 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-08
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,815 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-09
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -409,27 +409,27 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 867 | 🐛 8 | 🌐 Java | 📅 2026-10-08 - Live update for capacitor app.
-* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 134 | 🐛 7 | 🌐 Java | 📅 2026-10-08 - Browser In app browser with urlChangeEvent.
-* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 2 | 🌐 Java | 📅 2026-10-08 - Capacitor plugin for native audio engine (fork).
-* [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 52 | 🐛 6 | 🌐 Java | 📅 2026-10-08 - Capacitor plugin that allows camera interaction from HTML code (fork).
-* [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Native forward and reverse geocoding.
-* [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 29 | 🐛 5 | 🌐 Swift | 📅 2026-10-08 - Record screen and save to pelicule.
-* [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-08 - Switch the Flashlight / Torch of your device.
-* [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-08 - Crisp chat SDK for your app.
-* [@capgo/native-market](https://github.com/Cap-go/capacitor-native-market) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Capacitor community plugin for native market for Play Store/App Store.
-* [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Detect silent mode and mute audio.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 869 | 🐛 10 | 🌐 Java | 📅 2026-10-09 - Live update for capacitor app.
+* [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 134 | 🐛 7 | 🌐 Java | 📅 2026-10-09 - Browser In app browser with urlChangeEvent.
+* [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 2 | 🌐 Java | 📅 2026-10-09 - Capacitor plugin for native audio engine (fork).
+* [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 52 | 🐛 1 | 🌐 Java | 📅 2026-10-09 - Capacitor plugin that allows camera interaction from HTML code (fork).
+* [@capgo/nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Native forward and reverse geocoding.
+* [@capgo/capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 29 | 🐛 5 | 🌐 Swift | 📅 2026-10-09 - Record screen and save to pelicule.
+* [@capgo/capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Switch the Flashlight / Torch of your device.
+* [@capgo/capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 19 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-09 - Crisp chat SDK for your app.
+* [@capgo/native-market](https://github.com/Cap-go/capacitor-native-market) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Capacitor community plugin for native market for Play Store/App Store.
+* [@capgo/capacitor-mute](https://github.com/Cap-go/capacitor-mute) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Detect silent mode and mute audio.
 
 ### Aparajita
 
-* [@aparajita/capacitor-secure-storage](https://github.com/aparajita/capacitor-secure-storage) ⭐ 171 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-23 - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
+* [@aparajita/capacitor-secure-storage](https://github.com/aparajita/capacitor-secure-storage) ⭐ 172 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-23 - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 * [@aparajita/capacitor-dark-mode](https://github.com/aparajita/capacitor-dark-mode) ⭐ 33 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-13 – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
 * [@aparajita/capacitor-logger](https://github.com/aparajita/capacitor-logger) ⭐ 22 | 🐛 5 | 🌐 CSS | 📅 2024-04-22 – Better logging for the web and native Ionic/Capacitor apps.
 * [@aparajita/capacitor-ios-silent-notifications](https://github.com/aparajita/capacitor-ios-silent-notifications) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2025-10-31 – Silent (AKA remote) notification support for Capacitor apps on iOS.
 
 ### Transistor Software
 
-* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-06 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
+* [@transistorsoft/capacitor-background-geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Background location tracking and geofencing with battery-conscious motion-detection intelligence for iOS and Android.
 * [@transistorsoft/capacitor-background-fetch](https://github.com/transistorsoft/capacitor-background-fetch) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-21 - Periodic callbacks in the background for both iOS and Android.
 
 ### Luan Freitas
@@ -442,7 +442,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 ### Other Creators
 
 * [@codetrix-studio/capacitor-google-auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) ⭐ 335 | 🐛 134 | 🌐 TypeScript | 📅 2025-01-11 - Capacitor plugin for Google Auth.
-* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 232 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-08 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [@revenuecat/purchases-capacitor](https://github.com/RevenueCat/purchases-capacitor) ⭐ 232 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-09 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 * [capacitor-plugin-safe-area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) ⭐ 147 | 🐛 6 | 🌐 Java | 📅 2026-07-09 - Get SafeArea info on Android and IOS.
 * [send-intent](https://github.com/mindlib-capacitor/send-intent) ⭐ 134 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-01 - This is a Capacitor plugin meant to be used in Ionic applications for checking if your App was targeted as a share goal.
 * [capacitor-video-player](https://github.com/harmonwood/capacitor-video-player) ⭐ 130 | 🐛 31 | 🌐 Java | 📅 2025-11-18 - Capacitor Video Player Plugin.
@@ -499,9 +499,9 @@ Free and open source Capacitor starter apps.
 * [capacitor-angular-starter-guide-demo](https://github.com/capawesome-team/capacitor-angular-starter-guide-demo) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-08 - Simple Ionic Angular app, built as part of the Capawesome starter guide.
 * [capacitor-live-update-demo](https://github.com/capawesome-team/capacitor-live-update-demo) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-08 - Simple Ionic app to demonstrate the use of the Capacitor Live Update plugin.
 * [capacitor-share-target-demo](https://github.com/capawesome-team/capacitor-share-target-demo) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-10-08 - Simple Capacitor app to demonstrate the use of the Share Target plugin.
-* [capacitor-sqlite-angular-demo](https://github.com/capawesome-team/capacitor-sqlite-angular-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08 - Simple Ionic Angular app to demonstrate the use of the Capacitor SQLite plugin.
+* [capacitor-sqlite-angular-demo](https://github.com/capawesome-team/capacitor-sqlite-angular-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Simple Ionic Angular app to demonstrate the use of the Capacitor SQLite plugin.
 * [capacitor-vault-demo](https://github.com/capawesome-team/capacitor-vault-demo) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08 - Simple Ionic Angular app to demonstrate the use of the Capacitor Vault plugin.
-* [capacitor-sqlite-react-demo](https://github.com/capawesome-team/capacitor-sqlite-react-demo) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-08 - Simple Ionic React app to demonstrate the use of the Capacitor SQLite plugin.
+* [capacitor-sqlite-react-demo](https://github.com/capawesome-team/capacitor-sqlite-react-demo) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Simple Ionic React app to demonstrate the use of the Capacitor SQLite plugin.
 * [capacitor-oauth-demo](https://github.com/capawesome-team/capacitor-oauth-demo) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Simple Capacitor app to demonstrate the use of the OAuth plugin.
 * [capacitor-biometrics-demo](https://github.com/capawesome-team/capacitor-biometrics-demo) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Learn how to add biometric authentication to your Capacitor app using the Capawesome Biometrics plugin.
 * [capacitor-privacy-screen-demo](https://github.com/capawesome-team/capacitor-privacy-screen-demo) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2026-10-08 - Simple demo app to demonstrate the use of the Capacitor Privacy Screen plugin.
@@ -570,4 +570,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
