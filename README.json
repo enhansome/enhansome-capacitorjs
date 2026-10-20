@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "capacitor-community",
                 "repo": "admob",
-                "stars": 299,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -161,7 +161,7 @@
                 "id": 195606666,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-11T09:31:38Z",
+                "last_commit": "2026-10-20T15:46:56Z",
                 "open_issues": 94,
                 "owner": "capacitor-community",
                 "repo": "camera-preview",
@@ -428,7 +428,7 @@
                 "id": 274446961,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-12T22:21:27Z",
+                "last_commit": "2026-10-20T16:08:48Z",
                 "open_issues": 24,
                 "owner": "capacitor-community",
                 "repo": "facebook-login",
@@ -622,11 +622,11 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-19T18:44:04Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-20T15:10:05Z",
+                "open_issues": 11,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 875,
+                "stars": 876,
                 "topics": [
                   "android",
                   "capacitor",
@@ -656,7 +656,7 @@
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "browser",
                   "capacitor",
@@ -703,8 +703,8 @@
                 "id": 573703497,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-19T18:45:10Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-20T14:33:06Z",
+                "open_issues": 11,
                 "owner": "Cap-go",
                 "repo": "capacitor-camera-preview",
                 "stars": 52,
@@ -898,7 +898,7 @@
                 "open_issues": 2,
                 "owner": "aparajita",
                 "repo": "capacitor-secure-storage",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "capacitor",
                   "capacitor-android",
@@ -1175,7 +1175,7 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:37:47Z",
+                "last_commit": "2026-10-20T16:06:25Z",
                 "open_issues": 22,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
@@ -1670,7 +1670,7 @@
             "open_issues": 0,
             "owner": "capawesome-team",
             "repo": "capacitor-mlkit-plugin-demo",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.330Z"
@@ -2091,7 +2091,7 @@
             "id": 823195645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T11:59:17Z",
+            "last_commit": "2026-10-20T15:37:14Z",
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
@@ -2220,7 +2220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:30:55.806Z",
+    "last_updated": "2026-10-20T18:07:48.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
