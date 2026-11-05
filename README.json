@@ -98,7 +98,7 @@
                 "open_issues": 27,
                 "owner": "capacitor-community",
                 "repo": "admob",
-                "stars": 300,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -161,8 +161,8 @@
                 "id": 195606666,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-21T06:55:50Z",
-                "open_issues": 93,
+                "last_commit": "2026-11-04T22:58:20Z",
+                "open_issues": 94,
                 "owner": "capacitor-community",
                 "repo": "camera-preview",
                 "stars": 229,
@@ -652,8 +652,8 @@
                 "id": 515302020,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-03T19:29:20Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-05T19:09:44Z",
+                "open_issues": 7,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 136,
@@ -1005,7 +1005,7 @@
                 "id": 190391218,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T14:29:03Z",
+                "last_commit": "2026-11-05T03:33:15Z",
                 "open_issues": 11,
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-geolocation",
@@ -1026,7 +1026,7 @@
                 "id": 372845415,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-29T14:46:48Z",
+                "last_commit": "2026-11-05T17:21:58Z",
                 "open_issues": 2,
                 "owner": "transistorsoft",
                 "repo": "capacitor-background-fetch",
@@ -1175,7 +1175,7 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T17:33:38Z",
+                "last_commit": "2026-11-05T17:40:32Z",
                 "open_issues": 29,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
@@ -1314,41 +1314,6 @@
             },
             {
               "node_type": "item",
-              "title": "@erkamyaman/capacitor-foldable",
-              "description": "Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📱 Capacitor plugin for foldable phones: 📖 fold state, posture, hinge angle, size classes, rear display and dual screen on Android, plus a polyfill for the Device Posture and Viewport Segments web APIs. https://erkamyaman.github.io/capacitor-foldable/",
-                "homepage": "https://www.npmjs.com/package/@erkamyaman/capacitor-foldable",
-                "id": 1367403844,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-11-04T11:56:34Z",
-                "open_issues": 5,
-                "owner": "erkamyaman",
-                "repo": "capacitor-foldable",
-                "stars": 56,
-                "topics": [
-                  "android",
-                  "capacitor",
-                  "capacitor-plugin",
-                  "device-posture",
-                  "foldable",
-                  "foldables",
-                  "galaxy-fold",
-                  "ionic",
-                  "ios",
-                  "iphone-duo",
-                  "jetpack-windowmanager",
-                  "polyfill",
-                  "viewport-segments"
-                ]
-              },
-              "first_seen": "2026-09-21T18:56:14.346Z"
-            },
-            {
-              "node_type": "item",
               "title": "@wahr/capacitor-websocket-client",
               "description": "Capacitor WebSocket Client Plugin.",
               "children": [],
@@ -1373,6 +1338,41 @@
                 ]
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@erkamyaman/capacitor-foldable",
+              "description": "Capacitor plugin for foldable phones: fold state, posture, hinge angle, size classes and a Device Posture and Viewport Segments polyfill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📱 Capacitor plugin for foldable phones: 📖 fold state, posture, hinge angle, size classes, rear display and dual screen on Android, plus a polyfill for the Device Posture and Viewport Segments web APIs. https://erkamyaman.github.io/capacitor-foldable/",
+                "homepage": "https://erkamyaman.github.io/capacitor-foldable/",
+                "id": 1367403844,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-11-05T12:59:44Z",
+                "open_issues": 5,
+                "owner": "erkamyaman",
+                "repo": "capacitor-foldable",
+                "stars": 47,
+                "topics": [
+                  "android",
+                  "capacitor",
+                  "capacitor-plugin",
+                  "device-posture",
+                  "foldable",
+                  "foldables",
+                  "galaxy-fold",
+                  "ionic",
+                  "ios",
+                  "iphone-duo",
+                  "jetpack-windowmanager",
+                  "polyfill",
+                  "viewport-segments"
+                ]
+              },
+              "first_seen": "2026-09-21T18:56:14.346Z"
             },
             {
               "node_type": "item",
@@ -2221,7 +2221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:34:16.873Z",
+    "last_updated": "2026-11-05T20:50:33.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
