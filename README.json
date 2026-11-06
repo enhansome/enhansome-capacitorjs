@@ -21,7 +21,7 @@
                 "open_issues": 39,
                 "owner": "capacitor-community",
                 "repo": "sqlite",
-                "stars": 663,
+                "stars": 662,
                 "topics": [
                   "capacitor",
                   "capacitor-community",
@@ -47,7 +47,7 @@
                 "open_issues": 66,
                 "owner": "capacitor-community",
                 "repo": "electron",
-                "stars": 399,
+                "stars": 398,
                 "topics": [
                   "capacitor",
                   "capacitor-platform",
@@ -622,11 +622,11 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-04T13:49:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-06T19:55:44Z",
+                "open_issues": 8,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "android",
                   "capacitor",
@@ -652,8 +652,8 @@
                 "id": 515302020,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-05T19:09:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-06T15:16:05Z",
+                "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 136,
@@ -677,8 +677,8 @@
                 "id": 560317422,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-04T01:43:41Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-06T15:16:17Z",
+                "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-audio",
                 "stars": 79,
@@ -755,7 +755,7 @@
                 "id": 427230607,
                 "language": "Swift",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-02T12:49:59Z",
+                "last_commit": "2026-11-06T13:11:57Z",
                 "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-screen-recorder",
@@ -805,7 +805,7 @@
                 "id": 429967671,
                 "language": "JavaScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-04T13:55:58Z",
+                "last_commit": "2026-11-06T13:12:04Z",
                 "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-crisp",
@@ -1175,8 +1175,8 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:40:32Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-06T15:39:32Z",
+                "open_issues": 33,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 233,
@@ -1355,7 +1355,7 @@
                 "open_issues": 5,
                 "owner": "erkamyaman",
                 "repo": "capacitor-foldable",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1457,6 +1457,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@hotcodepush/capacitor-live-updates",
+              "description": "Capacitor plugin that delivers over-the-air updates from HotCodePush and rolls back a failed update automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HotCodePush Capacitor live updates: the Capacitor plugin that delivers over-the-air updates to your app, @hotcodepush/capacitor-live-updates on npm",
+                "homepage": "https://hotcodepush.com/capacitor-live-updates",
+                "id": 1394448935,
+                "language": "Kotlin",
+                "license": "MIT",
+                "last_commit": "2026-11-06T12:12:04Z",
+                "open_issues": 0,
+                "owner": "hotcodepush-team",
+                "repo": "capacitor-live-updates",
+                "stars": 1,
+                "topics": [
+                  "capacitor",
+                  "capacitor-plugin",
+                  "code-push",
+                  "hot-code-push",
+                  "hotcodepush",
+                  "live-updates",
+                  "ota-updates"
+                ]
+              },
+              "first_seen": "2026-11-06T20:06:32.080Z"
             }
           ],
           "description": null,
@@ -1713,7 +1742,7 @@
             "open_issues": 0,
             "owner": "capawesome-team",
             "repo": "ionic-capacitor-barcode-scanner-demo",
-            "stars": 16,
+            "stars": 15,
             "topics": [
               "barcode-scanner",
               "capacitor",
@@ -2120,7 +2149,7 @@
             "id": 823195645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:00:43Z",
+            "last_commit": "2026-11-06T18:15:00Z",
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
@@ -2176,7 +2205,7 @@
             "open_issues": 14,
             "owner": "Alexintosh",
             "repo": "Awesome-Ionic",
-            "stars": 1460,
+            "stars": 1459,
             "topics": [
               "angular",
               "cordova-plugin",
@@ -2221,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:50:33.700Z",
+    "last_updated": "2026-11-06T20:06:32.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
@@ -2229,7 +2258,7 @@
       "id": 386337469,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-26T13:58:37Z",
+      "last_commit": "2026-11-06T11:34:19Z",
       "open_issues": 1,
       "owner": "capawesome-team",
       "repo": "awesome-capacitorjs",
@@ -2248,7 +2277,7 @@
         "web"
       ]
     },
-    "original_repository_sha": "04ba513ada8b8e0bad537bf6fd39aba33deb8d8c",
+    "original_repository_sha": "36f7c7960776bb814a79b2bc460e95cf0c17e121",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
     "enhanced_repository_description": null,
     "title": "Awesome Capacitor with stars"
