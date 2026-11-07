@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,043 | 🐛 142 | 🌐 TypeScript | 📅 2026-11-06
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,046 | 🐛 144 | 🌐 TypeScript | 📅 2026-11-06
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -409,7 +409,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 884 | 🐛 8 | 🌐 Java | 📅 2026-11-06 - Live update for capacitor app.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 884 | 🐛 10 | 🌐 Java | 📅 2026-11-07 - Live update for capacitor app.
 * [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 136 | 🐛 2 | 🌐 Java | 📅 2026-11-06 - Browser In app browser with urlChangeEvent.
 * [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 2 | 🌐 Java | 📅 2026-11-06 - Capacitor plugin for native audio engine (fork).
 * [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 52 | 🐛 1 | 🌐 Java | 📅 2026-11-02 - Capacitor plugin that allows camera interaction from HTML code (fork).
@@ -511,7 +511,7 @@ Free and open source Capacitor starter apps.
 ## Tools
 
 * [Assets](https://github.com/ionic-team/capacitor-assets) ⭐ 590 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-30 - Local Capacitor icon/splash screen resource generation tool.
-* [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) ⭐ 123 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-23 - Create a new Capacitor plugin.
+* [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) ⭐ 123 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-23 - Create a new Capacitor plugin.
 * [Capver](https://github.com/capawesome-team/capver) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16 - CLI for managing versions in a Capacitor project across multiple platforms.
 * [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-06 - Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.
 * [Docgen](https://github.com/ionic-team/capacitor-docgen) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2025-12-03 - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
@@ -572,4 +572,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
