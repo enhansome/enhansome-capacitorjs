@@ -95,7 +95,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-30T00:02:06Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "capacitor-community",
                 "repo": "admob",
                 "stars": 301,
@@ -439,33 +439,6 @@
             },
             {
               "node_type": "item",
-              "title": "@capacitor-community/privacy-screen",
-              "description": "Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
-                "homepage": null,
-                "id": 330129326,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-04-28T11:27:21Z",
-                "open_issues": 10,
-                "owner": "capacitor-community",
-                "repo": "privacy-screen",
-                "stars": 103,
-                "topics": [
-                  "android",
-                  "capacitor",
-                  "capacitor-community",
-                  "capacitor-plugin",
-                  "ios"
-                ]
-              },
-              "first_seen": "2026-08-28T23:13:57.330Z"
-            },
-            {
-              "node_type": "item",
               "title": "@capacitor-community/app-icon",
               "description": "Capacitor plugin for managing an iOS app's icon.",
               "children": [],
@@ -484,6 +457,33 @@
                 "topics": [
                   "capacitor",
                   "capacitor-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@capacitor-community/privacy-screen",
+              "description": "Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⚡️ Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.",
+                "homepage": null,
+                "id": 330129326,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-04-28T11:27:21Z",
+                "open_issues": 10,
+                "owner": "capacitor-community",
+                "repo": "privacy-screen",
+                "stars": 102,
+                "topics": [
+                  "android",
+                  "capacitor",
+                  "capacitor-community",
+                  "capacitor-plugin",
+                  "ios"
                 ]
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -511,6 +511,33 @@
             },
             {
               "node_type": "item",
+              "title": "@capacitor-community/intercom",
+              "description": "Enable Intercom for Capacitor apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Enable Intercom for Capacitor apps",
+                "homepage": "https://capacitorjs.com/docs",
+                "id": 177884307,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-03-24T15:25:32Z",
+                "open_issues": 19,
+                "owner": "capacitor-community",
+                "repo": "intercom",
+                "stars": 71,
+                "topics": [
+                  "angular",
+                  "capacitor",
+                  "intercom",
+                  "ionic",
+                  "plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T23:13:57.330Z"
+            },
+            {
+              "node_type": "item",
               "title": "@capacitor-community/photoviewer",
               "description": "PhotoViewer table images with fullscreen and sharing capabilities.",
               "children": [],
@@ -530,33 +557,6 @@
                   "capacitor",
                   "capacitor-community",
                   "capacitor-plugin"
-                ]
-              },
-              "first_seen": "2026-08-28T23:13:57.330Z"
-            },
-            {
-              "node_type": "item",
-              "title": "@capacitor-community/intercom",
-              "description": "Enable Intercom for Capacitor apps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Enable Intercom for Capacitor apps",
-                "homepage": "https://capacitorjs.com/docs",
-                "id": 177884307,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-03-24T15:25:32Z",
-                "open_issues": 19,
-                "owner": "capacitor-community",
-                "repo": "intercom",
-                "stars": 70,
-                "topics": [
-                  "angular",
-                  "capacitor",
-                  "intercom",
-                  "ionic",
-                  "plugin"
                 ]
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -598,7 +598,7 @@
                 "open_issues": 4,
                 "owner": "capacitor-community",
                 "repo": "screen-brightness",
-                "stars": 31,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:57.330Z"
@@ -622,11 +622,11 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-09T19:38:57Z",
+                "last_commit": "2026-11-10T18:50:47Z",
                 "open_issues": 9,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 885,
+                "stars": 886,
                 "topics": [
                   "android",
                   "capacitor",
@@ -652,8 +652,8 @@
                 "id": 515302020,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-09T07:06:17Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-10T20:13:25Z",
+                "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-inappbrowser",
                 "stars": 136,
@@ -677,7 +677,7 @@
                 "id": 560317422,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-09T23:09:28Z",
+                "last_commit": "2026-11-10T20:37:15Z",
                 "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "capacitor-native-audio",
@@ -703,8 +703,8 @@
                 "id": 573703497,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-09T07:04:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-10T07:40:57Z",
+                "open_issues": 1,
                 "owner": "Cap-go",
                 "repo": "capacitor-camera-preview",
                 "stars": 52,
@@ -1175,8 +1175,8 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T13:09:49Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-10T18:26:10Z",
+                "open_issues": 31,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 233,
@@ -1351,11 +1351,11 @@
                 "id": 1367403844,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-09T11:30:34Z",
+                "last_commit": "2026-11-10T18:50:19Z",
                 "open_issues": 6,
                 "owner": "erkamyaman",
                 "repo": "capacitor-foldable",
-                "stars": 46,
+                "stars": 48,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2149,8 +2149,8 @@
             "id": 823195645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T06:56:02Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T23:29:37Z",
+            "open_issues": 2,
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
             "stars": 22,
@@ -2231,7 +2231,7 @@
             "open_issues": 4,
             "owner": "Cap-go",
             "repo": "awesome-ionic",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:10:58.989Z",
+    "last_updated": "2026-11-10T20:37:42.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
