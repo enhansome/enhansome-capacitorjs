@@ -622,11 +622,11 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-13T13:59:36Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-14T06:04:12Z",
+                "open_issues": 5,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 887,
+                "stars": 889,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1272,7 +1272,7 @@
                 "open_issues": 6,
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "android",
                   "angular",
@@ -1355,7 +1355,7 @@
                 "open_issues": 6,
                 "owner": "erkamyaman",
                 "repo": "capacitor-foldable",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2071,7 +2071,7 @@
             "open_issues": 80,
             "owner": "ionic-team",
             "repo": "capacitor-assets",
-            "stars": 590,
+            "stars": 589,
             "topics": [
               "capacitor",
               "ionic"
@@ -2149,7 +2149,7 @@
             "id": 823195645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T19:46:44Z",
+            "last_commit": "2026-11-14T12:56:08Z",
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:40:15.583Z",
+    "last_updated": "2026-11-14T18:52:57.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
