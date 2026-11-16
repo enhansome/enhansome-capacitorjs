@@ -47,7 +47,7 @@
                 "open_issues": 66,
                 "owner": "capacitor-community",
                 "repo": "electron",
-                "stars": 400,
+                "stars": 399,
                 "topics": [
                   "capacitor",
                   "capacitor-platform",
@@ -68,11 +68,11 @@
                 "id": 318455713,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T09:19:24Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-16T09:11:27Z",
+                "open_issues": 49,
                 "owner": "capacitor-community",
                 "repo": "bluetooth-le",
-                "stars": 359,
+                "stars": 358,
                 "topics": [
                   "bluetooth",
                   "capacitor",
@@ -94,8 +94,8 @@
                 "id": 274447027,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-15T16:41:19Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-16T18:33:28Z",
+                "open_issues": 9,
                 "owner": "capacitor-community",
                 "repo": "admob",
                 "stars": 301,
@@ -626,7 +626,7 @@
                 "open_issues": 4,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1175,8 +1175,8 @@
                 "id": 427781657,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T00:16:08Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-16T21:21:14Z",
+                "open_issues": 28,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
                 "stars": 233,
@@ -1268,8 +1268,8 @@
                 "id": 752043661,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-12T22:18:56Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-16T23:03:01Z",
+                "open_issues": 7,
                 "owner": "ebarooni",
                 "repo": "capacitor-calendar",
                 "stars": 89,
@@ -1324,11 +1324,11 @@
                 "id": 1367403844,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-12T19:56:55Z",
+                "last_commit": "2026-11-16T12:12:12Z",
                 "open_issues": 6,
                 "owner": "erkamyaman",
                 "repo": "capacitor-foldable",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "android",
                   "capacitor",
@@ -2111,6 +2111,27 @@
         },
         {
           "node_type": "item",
+          "title": "Tailwind Capacitor",
+          "description": "Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tailwind plugin for capacitor apps",
+            "homepage": null,
+            "id": 823195645,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-16T18:14:04Z",
+            "open_issues": 2,
+            "owner": "Cap-go",
+            "repo": "tailwind-capacitor",
+            "stars": 23,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:13:57.330Z"
+        },
+        {
+          "node_type": "item",
           "title": "Capver",
           "description": "CLI for managing versions in a Capacitor project across multiple platforms.",
           "children": [],
@@ -2134,27 +2155,6 @@
               "ionic",
               "ios"
             ]
-          },
-          "first_seen": "2026-08-28T23:13:57.330Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwind Capacitor",
-          "description": "Collection of helper plugins for Tailwind, it adds safe area classes and other utilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tailwind plugin for capacitor apps",
-            "homepage": null,
-            "id": 823195645,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-15T18:57:06Z",
-            "open_issues": 2,
-            "owner": "Cap-go",
-            "repo": "tailwind-capacitor",
-            "stars": 22,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:13:57.330Z"
         },
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:28:33.648Z",
+    "last_updated": "2026-11-16T23:03:32.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
