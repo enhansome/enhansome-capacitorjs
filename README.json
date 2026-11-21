@@ -136,8 +136,8 @@
                 "id": 219177937,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-19T09:35:22Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-21T09:26:21Z",
+                "open_issues": 16,
                 "owner": "capacitor-community",
                 "repo": "stripe",
                 "stars": 249,
@@ -622,7 +622,7 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-20T04:48:59Z",
+                "last_commit": "2026-11-21T12:59:11Z",
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:33:53.107Z",
+    "last_updated": "2026-11-21T20:15:54.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",

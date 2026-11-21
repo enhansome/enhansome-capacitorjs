@@ -69,7 +69,7 @@ A curated list of awesome things related to Capacitor.
 * [CLI](https://capacitorjs.com/docs/cli)
 * [Community](https://capacitorjs.com/community)
 * [Blog](https://ionic.io/blog/tag/capacitor)
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,126 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-20
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,134 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-20
 * [Twitter](https://twitter.com/capacitorjs)
 
 ## Communities
@@ -386,7 +386,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 * [@capacitor-community/bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 358 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-18 - Capacitor plugin for Bluetooth Low Energy.
 * [@capacitor-community/admob](https://github.com/capacitor-community/admob) ⭐ 302 | 🐛 7 | 🌐 Java | 📅 2026-11-17 - Community plugin for using Google AdMob.
 * [@capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 250 | 🐛 22 | 🌐 Java | 📅 2026-10-22 - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-* [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 249 | 🐛 15 | 🌐 Swift | 📅 2026-11-19 - Stripe Mobile SDK wrapper for Capacitor.
+* [@capacitor-community/stripe](https://github.com/capacitor-community/stripe) ⭐ 249 | 🐛 16 | 🌐 Swift | 📅 2026-11-21 - Stripe Mobile SDK wrapper for Capacitor.
 * [@capacitor-community/camera-preview](https://github.com/capacitor-community/camera-preview) ⭐ 229 | 🐛 94 | 🌐 Java | 📅 2026-11-04 - Capacitor plugin that allows camera interaction from HTML code.
 * [@capacitor-community/safe-area](https://github.com/capacitor-community/safe-area) ⭐ 178 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
 * [@capacitor-community/keep-awake](https://github.com/capacitor-community/keep-awake) ⭐ 176 | 🐛 10 | 🌐 Swift | 📅 2026-05-27 - Capacitor plugin to prevent devices from dimming or locking the screen.
@@ -409,7 +409,7 @@ Maintained by the [Capawesome](https://capawesome.io/) team. See the [full SDK l
 
 ### Capgo
 
-* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 891 | 🐛 6 | 🌐 Java | 📅 2026-11-20 - Live update for capacitor app.
+* [@capgo/capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 891 | 🐛 6 | 🌐 Java | 📅 2026-11-21 - Live update for capacitor app.
 * [@capgo/inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 136 | 🐛 1 | 🌐 Java | 📅 2026-11-20 - Browser In app browser with urlChangeEvent.
 * [@capgo/native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 1 | 🌐 Java | 📅 2026-11-19 - Capacitor plugin for native audio engine (fork).
 * [@capgo/camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 52 | 🐛 2 | 🌐 Java | 📅 2026-11-19 - Capacitor plugin that allows camera interaction from HTML code (fork).
@@ -530,7 +530,7 @@ Free and open source Capacitor starter apps.
 Production apps whose use of Capacitor is publicly documented.
 
 * [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association, migrated to Capacitor.
-* [AI Gist](https://github.com/yarin-zhang/AI-Gist) ⭐ 916 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-29 - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
+* [AI Gist](https://github.com/yarin-zhang/AI-Gist) ⭐ 916 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-29 - Open-source, local-first AI prompt manager for desktop and mobile, built with Vue, Ionic, and Capacitor.
 * [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped to the app stores as PWAs wrapped with Capacitor.
 * [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app with Capacitor for iOS and Android.
 * [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova to Capacitor.
@@ -572,4 +572,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
