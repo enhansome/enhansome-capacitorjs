@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "capacitor-community",
                 "repo": "sqlite",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "capacitor",
                   "capacitor-community",
@@ -232,7 +232,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-01-28T16:43:36Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "capacitor-community",
                 "repo": "apple-sign-in",
                 "stars": 166,
@@ -303,7 +303,7 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-07-21T07:52:29Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "capacitor-community",
                 "repo": "contacts",
                 "stars": 145,
@@ -622,7 +622,7 @@
                 "id": 420741081,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-21T12:59:11Z",
+                "last_commit": "2026-11-22T16:31:39Z",
                 "open_issues": 6,
                 "owner": "Cap-go",
                 "repo": "capacitor-updater",
@@ -1179,7 +1179,7 @@
                 "open_issues": 25,
                 "owner": "RevenueCat",
                 "repo": "purchases-capacitor",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "android",
                   "capacitor",
@@ -1202,7 +1202,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-07-09T09:01:12Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "AlwaysLoveme",
                 "repo": "capacitor-plugin-safe-area",
                 "stars": 147,
@@ -1324,7 +1324,7 @@
                 "id": 1367403844,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-20T06:45:05Z",
+                "last_commit": "2026-11-22T20:27:34Z",
                 "open_issues": 6,
                 "owner": "erkamyaman",
                 "repo": "capacitor-foldable",
@@ -1390,7 +1390,7 @@
                 "open_issues": 2,
                 "owner": "smartcompanion-app",
                 "repo": "native-audio-player",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "android",
                   "audio",
@@ -1486,6 +1486,43 @@
                 ]
               },
               "first_seen": "2026-11-06T20:06:32.080Z"
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor-gleap-plugin",
+              "description": "In-app bug reporting, customer feedback, live chat and AI customer support with Gleap.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Capacitor and Ionic SDK for Gleap, an Intercom alternative with AI customer support, live chat, in-app bug reporting and customer feedback.",
+                "homepage": "https://www.gleap.ai",
+                "id": 470827366,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-11-19T09:47:36Z",
+                "open_issues": 4,
+                "owner": "GleapSDK",
+                "repo": "Capacitor-SDK",
+                "stars": 1,
+                "topics": [
+                  "ai-customer-support",
+                  "ai-support",
+                  "bug-reporting",
+                  "capacitor",
+                  "customer-feedback",
+                  "customer-support",
+                  "gleap",
+                  "help-center",
+                  "in-app-feedback",
+                  "intercom-alternative",
+                  "ionic",
+                  "live-chat",
+                  "mobile-sdk",
+                  "sdk",
+                  "session-replay"
+                ]
+              },
+              "first_seen": "2026-11-22T20:29:25.066Z"
             }
           ],
           "description": null,
@@ -1513,7 +1550,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-29T14:18:19Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "capacitor-community",
                 "repo": "fcm",
                 "stars": 274,
@@ -2250,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:15:54.221Z",
+    "last_updated": "2026-11-22T20:29:25.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Capacitor.",
@@ -2258,7 +2295,7 @@
       "id": 386337469,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-06T11:34:19Z",
+      "last_commit": "2026-11-22T16:24:54Z",
       "open_issues": 1,
       "owner": "capawesome-team",
       "repo": "awesome-capacitorjs",
@@ -2277,7 +2314,7 @@
         "web"
       ]
     },
-    "original_repository_sha": "36f7c7960776bb814a79b2bc460e95cf0c17e121",
+    "original_repository_sha": "c7eaf1bbcc34de958027c31fbc3daca275138caa",
     "enhanced_repository": "enhansome/enhansome-capacitorjs",
     "enhanced_repository_description": null,
     "title": "Awesome Capacitor with stars"
